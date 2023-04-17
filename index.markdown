@@ -5,8 +5,6 @@
 layout: home
 ---
 
-# GM5AUG's website
-
 Welcome to my website which I'm in the process of building. Until it is completed, you will find more information by visiting [https://gm5aug.neotes.uk/](https://gm5aug.neotes.uk/).
 
 73 de Michael GM5AUG.
