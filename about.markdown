@@ -4,15 +4,19 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Greetings and welcome to my simple webpage. My name is Michael – or ‘Mike’ on the air.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+This site deals mainly with my amateur radio activity, but please [click here](https://www.topple.scot My Blog) to view my Blog, [here](https://michaelrjtopple.academia.edu/ Academia) to view my profile on Academia, [here](https://www.twitter.com/ToppleMichael Twitter) for my Twitter feed, or [here](https://www.youtube.com/channel/UChCPndzIQ_Mp7z-5odZ4qHQ YouTube) to view my YouTube channel.
 
 
-[jekyll-organization]: https://github.com/jekyll
+I began my interest Amateur Radio when I was fifteen, after a visit to the [National Radio Centre](http://www.nationalradiocentre.com/ NRC) at Bletchley Park in Milton Keynes, England. After having a go on the radio there, I was hooked and took my Foundation exam about two months later, gaining the callsign M6EIO with the Colchester Radio Amateurs (CRA). My first radio was a borrowed Icom IC-706 Mk1. In November 2013 I sat and passed my Intermediate Exam and took the callsign 2E0GUI.
+
+My XYL and I moved from Colchester to Glasgow in January 2022 as I took up my studies at the University of Glasgow, operating initially as 2M0GUI.
+
+Nearly ten years after gaining my Intermediate licence, on 13th March 2023, I (finally!) sat and passed my Full exam, taking the callsign GM5AUG a couple of days later. I was pleased to be able to choose the three letters at the end of my call, and chose them in memory of Ron G4AUG, now S/K, who features below.
+
+In my spare time, I enjoy researching vintage or antique Amateur Radio ephemera, a selection of which may be viewed in the [File Store](https://www.qsl.net/2m0gui/FileStore File Store). I often update this so do check back every now and then. Those interested in Amateur Radio history may find [this link](http://www.g4kfk.co.uk/) of interest, while [this link](https://www.bbc.co.uk/sounds/play/p0b0yl8p) goes to a fascinating BBC documentary about the early days of broadcasting and [this link](https://www.youtube.com/watch?v=kcZ7kmdh6LU&list=WL&index=9) to a BBC Radio 4 documentary about amateur radio. 
+
+I continue to learn, get pleasure, have fun, and relax in the Amateur Radio hobby, enjoying working on HF, VHF and UHF, primarily CW but also occasionally enjoying voice modes. Maybe we’ll work each other some day, if not already. My QRZ page is not especially interesting as it just links back here, but I do keep this page largely up to date. Another good place to check is my Twitter page. 
+
+Please QSL either directly or via the Bureau. QSL cards happily sent on request.
