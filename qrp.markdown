@@ -6,7 +6,7 @@ permalink: /qrp/
 
 While most of my operating takes place at home (see my Shack page), I do enjoy taking my QRP radio out portable. There are a variety of locations that I've used over the years, whether on my own or with other amateurs.
 
-Until fairly recently, I would take my shack Icom IC-7100 out and about with me, keeping it in a briefcase that I modified for purpose. However I wasn't particularly comfortable with this setup, so with some Christmas money was able to buy a wee Xiegu G106 QRP radio. This radio, which provides between 5-10w of CW, SSB or AM, is compact enough to fit into a small satchel, along with a battery, key and roll of wire for an antenna.
+Until fairly recently, I would take my shack Icom IC-7100 out and about with me, keeping it in a briefcase that I modified for purpose. However I wasn't particularly comfortable with this setup, so with some Christmas money was able to buy a wee Xiegu G106 QRP radio. This radio, which provides between 5-10w of CW, SSB or AM, is compact enough to fit into a small satchel, along with a battery, AMU, key and roll of wire for an antenna.
 
 By way of a demonstration, below are recordings taken from various WebSDRs, showing how well a low power transmission can be heard around the world.
 
