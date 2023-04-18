@@ -10,8 +10,7 @@ Until fairly recently, I would take my shack Icom IC-7100 out and about with me,
 
 By way of a demonstration, below are recordings taken from various WebSDRs, showing how well a low power transmission can be heard around the world.
 
-<figure>
-<figurecaption>2M0GUI/QRP received by the Hack Green WebSDR (approx. 260m away) using 1w TX power - 7014kHz 09/Oct/2022</figcaption>
+2M0GUI/QRP received by the Hack Green WebSDR (approx. 260m away) using 1w TX power - 7014kHz 09/Oct/2022
 <audio
 controls
         src="/files/614ca-hack-green-1w-with-explanation.mp3">
@@ -19,10 +18,8 @@ controls
                 Download audio
             </a>
     </audio>
-</figure>
-
-<figure> 
-<figurecaption>2M0GUI/QRP received by the PH4RTM WebSDR (approx. 523m away) using 5w TX power - 7014kHz 09/Oct/2022</figcaption> 
+ 
+2M0GUI/QRP received by the PH4RTM WebSDR (approx. 523m away) using 5w TX power - 7014kHz 09/Oct/2022 
 <audio 
 controls
         src="/files/856ae-ph4rtm-netherlands-5w-rx.mp3">
@@ -30,10 +27,8 @@ controls
                 Download audio
             </a>
     </audio>
-</figure>
-
-<figure> 
-<figurecaption>2M0GUI/QRP received by the K3FEF WebSDR (approx. 3,224m away) using 3w TX power - 18074kHz 11/Oct/2022</figcaption> 
+ 
+2M0GUI/QRP received by the K3FEF WebSDR (approx. 3,224m away) using 3w TX power - 18074kHz 11/Oct/2022 
 <audio 
 controls
         src="/files/89d6f-k3fef-east-america-3w-rx.wav">
@@ -41,6 +36,22 @@ controls
                 Download audio
             </a>
     </audio>
-</figure>
 
-Images to go here...
+GM5AUG/QRP received by the Hack Green WebSDR (approx. 523m away) using 1w TX power - 5260kHz 10/Apr/2023 
+<audio 
+controls
+        src="/files/websdr_recording_2023-04-10t12-24-59z_5260.0khz.wav">
+            <a href="/files/websdr_recording_2023-04-10t12-24-59z_5260.0khz.wav">
+                Download audio
+            </a>
+    </audio>
+
+
+**A few images of Michael /QRP**
+
+![The Xiegu G106 radio](/images/4ee77-xiegu-g106-hf-transceiver-3.jpeg)
+*My Xiegu G106 QRP radio set*
+
+![M6EIO/P](/images/03815-m6eio-portable.jpg)
+*A young Michael (M6EIO/P) on Mersea Island with Kevan 2E0WMG*
+
