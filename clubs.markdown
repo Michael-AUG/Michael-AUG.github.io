@@ -17,7 +17,7 @@ I am part of a number of clubs, and I have listed these below, with links to the
 ![WACRAL](images/8adf3-lapel_pin.png)
 <br>[WACRAL](https://http://www.wacral.org/) - the World Association of Christian Radio Amateurs and Listeners - No. 1730
 
-![RSGB](a8a88-rsgb.png)
+![RSGB](images/a8a88-rsgb.png)
 <br>[RSGB](https://www.rsgb.org) - the Radio Society of Great Britain - No. 211957
 
 ![CRA](images/b44ff-cra.jpg)
@@ -29,7 +29,7 @@ I am part of a number of clubs, and I have listed these below, with links to the
 ![ECWARC](images/25947-ecwarc.jpg)
 <br>[ECWARC](https://essexcw.uk/) - Essex CW Amateur Radio Club - No. 254
 
-![G-QRP](images/39f19-gqrp.jpeg)
+![G-QRP](images/e9f19-gqrp.jpeg)
 <br>[G-QRP](http://www.gqrp.com/index.htm) - the Q-QRP Low Power Club - No. 17163
 
 ![FISTS](images/7fbce-fists.jpg)
