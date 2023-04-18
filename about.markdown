@@ -4,10 +4,11 @@ title: About
 permalink: /about/
 ---
 
+![Michael](images/fffc8-mtoppo1.jpg)
+
 Greetings and welcome to my simple webpage. My name is Michael – or ‘Mike’ on the air.
 
 This site deals mainly with my amateur radio activity, but please [click here](https://www.topple.scot) to view my Blog, [here](https://michaelrjtopple.academia.edu/) to view my profile on Academia, [here](https://www.twitter.com/ToppleMichael) for my Twitter feed, or [here](https://www.youtube.com/channel/UChCPndzIQ_Mp7z-5odZ4qHQ) to view my YouTube channel.
-
 
 I began my interest Amateur Radio when I was fifteen, after a visit to the [National Radio Centre](http://www.nationalradiocentre.com/) at Bletchley Park in Milton Keynes, England. After having a go on the radio there, I was hooked and took my Foundation exam about two months later, gaining the callsign M6EIO with the Colchester Radio Amateurs (CRA). My first radio was a borrowed Icom IC-706 Mk1. In November 2013 I sat and passed my Intermediate Exam and took the callsign 2E0GUI.
 
