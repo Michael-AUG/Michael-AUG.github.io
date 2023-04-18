@@ -14,7 +14,7 @@ This is where it all began: Michael first encountering Amateur Radio at the Nati
 
 In January 2013 an article appeared in RadCom, mentioning my visit to the NRC and reporting that I was the first person known to have gained their licence as a result of a visit to the NRC. I will be forever grateful to the gentlemen on duty at GB3RS that day for introducing me to this wonderful world.
 
-![G4OAD trophy](images/4bfb0-ecwarcaward.jpg]
+![G4OAD trophy](images/4bfb0-ecwarcaward.jpg)
 
 A very young Michael being awarded the ECWARC **‘G4OAD Memorial Trophy’** by Stephen Cocks G4ZUL. 
 >“The award is made each year by the ECWARC committee to the nominated person that they deem the most improved CW learner/practitioner in the previous 12 months. Michael was awarded the trophy as he had joined the regular practice sessions run for CRA by Jonathan G0DVJ and others on Sunday and Monday evenings on air, and quickly caught up the progress of the others on those sessions. Michael is the second CRA member to be a recipient of the trophy. Jeff G7TAT won the award two years previously.” 
