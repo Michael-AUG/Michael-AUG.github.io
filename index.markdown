@@ -5,7 +5,7 @@
 layout: page
 ---
 
-Welcome to my website which I'm in the process of building. Until it is completed, you will find more information by visiting [https://gm5aug.neotes.uk/](https://gm5aug.neotes.uk/).
+Welcome to my website - please take a look around!
 
 73 de Michael GM5AUG.
 
@@ -14,3 +14,7 @@ Welcome to my website which I'm in the process of building. Until it is complete
 ![Ham Alert](https://hamalert.org/myspot?c=GM5AUG&h=f28667128cef90b4&a=24)
 
 ![RBN Stats](https://rbn.telegraphy.de/activity/image/GM5AUG+G5AUG)
+
+![eQSL Auth](https://gm5augneotes.files.wordpress.com/2023/03/cfimg-7018176395797915477.png?w=580)
+
+![Propo](https://www.hamqsl.com/solar101vhfpic.php)
