@@ -23,7 +23,7 @@ Further information about the radio can be found [here](https://worldradiohistor
 
 ![Avo2](images/330b0-avomanual.jpg)
 
-![Avo3](ab9b1-avocase.jpg)
+![Avo3](images/ab9b1-avocase.jpg)
 
 Loving vintage or antique equipment, my meter of choice is this [Model 40 Universal Avometer](http://www.richardsradios.co.uk/avo40mk2.html), dating from September 1953, which belonged to G4AUG (whose radio is seen above). The instrument has proved itself on many occasions and, unlike various other multimeters which have been and gone, is reliable and accurate. With the meter came the original manual and case, the latter still bearing Ron’s initials and callsign. I have found a very similar (albeit not identical) copy of the user’s manual and uploaded it to the File Store (see the 'About' tab).
 
