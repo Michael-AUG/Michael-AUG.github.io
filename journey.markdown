@@ -13,6 +13,7 @@ permalink: /journey/
 This is where it all began: Michael first encountering Amateur Radio at the National Radio Centre, Bletchley Park, in August 2012. Note my parents looking on in the first photo - little did they know what it would lead to!
 
 In January 2013 an article appeared in RadCom, mentioning my visit to the NRC and reporting that I was the first person known to have gained their licence as a result of a visit to the NRC. I will be forever grateful to the gentlemen on duty at GB3RS that day for introducing me to this wonderful world.
+
 ![G4OAD trophy](images/4bfb0-ecwarcaward.jpg]
 
 A very young Michael being awarded the ECWARC **‘G4OAD Memorial Trophy’** by Stephen Cocks G4ZUL. 
