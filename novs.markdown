@@ -4,3 +4,21 @@ title: NOVs
 permalink: /novs/
 ---
 
+Since first being licenced in 2012, I have operated under a number of NoVs. NoVs are 'Notices of Variation', allowing the operator to vary his callsign. NoVs fall into two categories:
+1. Regional Secondary Location NoVs
+2. Special Event Station NoVs (only available to Full licensees)
+
+I have made use of both types of NoVs. A few of these variations are isted below, with links to QRZ pages.
+
+- [MQ6EIO - Marking the Queen's Diamond Jubilee](https://www.qrz.com/db/mq6eio) - from 05 May to 10 June 2012
+- [MO6EIO - Marking the London 2012 Olympic Games](https://www.qrz.com/db/mo6eio) - from 21 July to 09 September 2012
+- [2Q0GUI - Marking the Queen's Platinum Jubilee](https://www.qrz.com/db/2q0gui) - from 01 June to 30 June 2022
+- Again as [2Q0GUI](https://www.qrz.com/db/2q0gui) to mark the period of National Mourning following the death of Her Majesty the Queen - 14 September to 19 September 2022
+- [GB5AAW - Marking Autism Awareness Week](https://www.qrz.com/db/gb5aaw) - from 25th March to 2nd April 2023
+- [GB5VIZ - marking Churches and Chapels On The Air Day](https://www.qrz.com/db/gb5viz) - 09 September 2023
+
+**Some example NoVs**
+
+![2Q0GUI](images/1ae86-screenshot-2023-01-04-at-22.28.48.jpg)
+
+![GB5AAEW](images/gb5aawnew.png)
