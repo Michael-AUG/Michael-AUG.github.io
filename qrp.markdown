@@ -55,3 +55,11 @@ controls
 ![M6EIO/P](/images/03815-m6eio-portable.jpg)
 *A young Michael (M6EIO/P) on Mersea Island with Kevan 2E0WMG*
 
+![GM5AUG/QRP](/images/fe7c9-2a41b66a-5ebf-40c1-a19c-588d36987499.jpeg)
+*A somewhat older Michael (GM5AUG/QRP) in the same spot with Andy G6IGU*
+
+![GM5AUG/QRP](/images/d3abe-322847684_1261893281138594_578327562309739796_n.jpg)
+*/QRP in sunny Troon*
+
+![GM5AUG/QRP](/images/676da-323527926_857464428807131_387242739454321519_n.jpg)
+*/QRP antennas at Troon - a 40m whip on the car, and a 20m dipole* 
