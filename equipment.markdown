@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Equipment
+title: Vintage Equipment
 permalink: /equipment/
 ---
 
