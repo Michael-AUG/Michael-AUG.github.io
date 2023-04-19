@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Contests
+title: Contesting
 permalink: /contests/
 ---
 
