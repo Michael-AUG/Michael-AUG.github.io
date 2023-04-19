@@ -9,7 +9,7 @@ One of the best things about Amateur Radio is the opportunity to join various cl
 I am part of a number of clubs, and I have listed these below, with links to their websites.
 
 ![GUWS](images/GUWS_Logo.png)
-<br> I am a founding member of the [Glasgow University Wireless Society](https://www.mm0wsg.radio) and am pleased to currently serve as its Chairman. I am also holder of the callsign G#4AGU on the Society's behalf.
+<br> I am a founding member of the [Glasgow University Wireless Society](https://www.mm0wsg.radio) and am pleased to currently serve as its Chairman. I am also holder of the callsign [G#4AGU](https://www.qrz.com/db/gs4agu) on the Society's behalf.
 
 ![GMDX](images/gmdxlogo.gif)
 <br>[GMDX](https://www.gmdx.org.uk/) - I am pleased to serve as Secretary of the GMDX Group
