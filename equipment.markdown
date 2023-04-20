@@ -30,7 +30,12 @@ Loving vintage or antique equipment, my meter of choice is this [Model 40 Univer
 ![Crystal Set](images/crystalSet.jpeg)
 *G4AUG's crystal radio*
 
-Also from Ron came this lovely crystal radio set with the matching headphones. I don't know very much about the radio save that (apparently) it dates from the 1920s. I think that the little jumper inbetween the two tuning knobs changed the band from MW to LW, although this is more suspicion than certainty. Although I've not used it for a number of years, I have had success with using this little set to tune in to local and national AM broadcast stations in the MW portion of the broadcast band. I find it amazing how it is possible to demodulate and listen to radio signals just using the inbuilt electrical strength of the radio signal - no batteries or AC power supplies needed. 
+Also from Ron came this lovely crystal radio set with the matching headphones. I don't know very much about the radio save that (apparently) it dates from the 1920s. I think that the little jumper inbetween the two tuning knobs changed the band from MW to LW, although this is more suspicion than certainty. Although I don't use it on a regular basis, I have had success with using this little set to tune in to local and national AM broadcast stations in the MW portion of the broadcast band. I find it amazing how it is possible to demodulate and listen to radio signals just using the inbuilt electrical strength of the radio signal - no batteries or AC power supplies needed. 
+
+![Crystal Radio Tweet](images/crystalTweet.png)
+*Using my Crystal set to tune in to Ken Bruce!*
+
+Picture above of a Tweet I sent to Ken Bruce when I listened to his morning radio show using the crystal set - and he mentioned me on air!
 
 ![Royal Sigs Key](images/21893-portacwkey.jpeg)
 
