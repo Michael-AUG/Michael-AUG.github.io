@@ -27,6 +27,13 @@ Further information about the radio can be found [here](https://worldradiohistor
 
 Loving vintage or antique equipment, my meter of choice is this [Model 40 Universal Avometer](http://www.richardsradios.co.uk/avo40mk2.html), dating from September 1953, which belonged to G4AUG (whose radio is seen above). The instrument has proved itself on many occasions and, unlike various other multimeters which have been and gone, is reliable and accurate. With the meter came the original manual and case, the latter still bearing Ron’s initials and callsign. I have found a very similar (albeit not identical) copy of the user’s manual and uploaded it to the File Store (see the 'About' tab).
 
-![RSigsKey](images/21893-portacwkey.jpeg)
+![Crystal Set](images/crystalSet.jpeg)
+*G4AUG's crystal radio*
+
+Also from Ron came this lovely crystal radio set with the matching headphones. I don't know very much about the radio save that (apparently) it dates from the 1920s. I think that the little jumper inbetween the two tuning knobs changed the band from MW to LW, although this is more suspicion than certainty. Although I've not used it for a number of years, I have had success with using this little set to tune in to local and national AM broadcast stations in the MW portion of the broadcast band. I find it amazing how it is possible to demodulate and listen to radio signals just using the inbuilt electrical strength of the radio signal - no batteries or AC power supplies needed. 
+
+![Royal Sigs Key](images/21893-portacwkey.jpeg)
 
 When out and about, playing radio (see my QRP and Portable page), I like to use this vintage Royal Signals' *Key And Plug Assembly No. 8* key.I can’t find much information about this key, but [this](https://www.vanzwamcs.com/greenpages/keys/keys.htm) link gives a little information, and [this](https://www.royalsignals.org.uk/key-plug/keyandplugv1.pdf) eBook (see pp. 14 and 15) offers some further information. Although I normally use a paddle key for sending CW, I feel an attachment to this key a) because it belonged to Ron, and b) because my late Grandfather served in the Royal Signals and likely used a key like this when serving.
+
+Much to my XYL's disdain(!), my collection continues to grow. In time I will add more images and information to this page.
