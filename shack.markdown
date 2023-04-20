@@ -28,4 +28,9 @@ This is my straight key. Although I make most of my CW contacts using my MFJ pad
 
 Using an EFLW has many advantages, such as ease and practicality (one wire can cover the whole HF part of the spectrum), but also risks introducing a few problems - these include getting unwanted RF in the shack, and relying on an Antenna Matching Unit to 'fool' the rig into putting out full TX power. My tuner, pictured above (below Jonathan G0DVJ's loaned power and SWR meter) is an LDG IT-100 Autotuner and works extremely well and making my antenna and rig 'play nicely' together. Having the meter in-line also allows me to keep an eye on my transmit power levels and SWR levels. Often the meter is the first sign of an issue, so is well worth having. In time I hope to be able to run more power into a better antenna, but for now the two factors precluding that are 1) money! and 2) living in rented accomodation.
 
-**To come - a photograph of my antennas.**
+![Antennas](images/antenna.jpeg)
+*My two antennas*
+
+As seen in the picture above, the communal garden has a no longer used telegraph pole in the corner. This is ideal for tying my EFLW onto. (3) shows where the antenna begins, just outside the window. Here is a 9:1 UnUn fed with Mini8 coax. The sloping EFLW then runs down to the telegraph pole where, at point (1), it goes through an insulator tied to the pole with paracord. The antenna then continues to slope downwards to approx 8' above ground where, at point (2), it is terminated with another insulator. Some more paracord then ties the antenna down into the trees. At point (1) I have made a makeshift winch style system to allow me to raise and lower the antenna at the insulator, meaning I can make repairs easily. Not seen in the picture is the earth/ground wire which comes straight down from the UnUn and into an earth stake in the ground. 
+
+Also in the picture, in green and marked (4), is my 'Slim Jim' 2m antenna. As you'll see, it has an excellent takeoff in one direction, but is somewhat blocked by the building in the other. In time I hope to get this raised higher above the roof level, giving excellent takeoff in every direction.
