@@ -7,7 +7,7 @@ permalink: /rsgb/
 I am pleased to be a member of the Radio Society of Great Britain and firmly believe in 'giving back' to the amateur radio hobby. For this reason I volunteer for the RSGB in a variety of ways:
 
 ![GB2RS](images/4b496-gb2rswosars.png)
-![Frank Hicks-Arnold](images/hicks_arnold.png)
+<br>![Frank Hicks-Arnold](images/hicks_arnold.png)
 <br>*Since moving to Scotland I have begun a GB2RS broadcast on a Sunday evening. GB2RS is the News Broadcasting service of the RSGB and began way back in 1955 with Mr Frank Hicks-Arnold negotiating with the GPO to be allowed to* **broadcast** *the News, something that the normal amateur licence didn't then, and doesn't now, allow. I broadcast on 145.525MHz FM at 1830hz on a Sunday.*
 
 ![Morse](images/77d0b-michaelstopple2m0gui3.jpg)
