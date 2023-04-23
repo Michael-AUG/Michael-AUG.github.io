@@ -28,7 +28,7 @@ I also hold the following 'group 3' (my designation) NoVs:
 | 2300MHz to 2302MHz | 27 March 2023 | 27 March 2026 |
 | 275GHz and above | 27 March 2023 | 27 March 2026 |
 
-Some example NoVs**
+**Some example NoVs**
 
 ![2Q0GUI](images/1ae86-screenshot-2023-01-04-at-22.28.48.jpg)
 
