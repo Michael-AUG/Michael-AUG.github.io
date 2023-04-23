@@ -13,3 +13,5 @@ I am pleased to be a member of the Radio Society of Great Britain and firmly bel
 ![Morse](images/77d0b-michaelstopple2m0gui3.jpg)
 ![Morse Assessor](images/5896c-screenshot-2023-02-24-at-16.20.09.jpg)
 *I mainly operate in CW (Morse Code) and was pleased to take and pass the RSGB's Morse Proficiency Tests at 12, 15 and 20wpm. Since then I have been appointed an RSGB Approved Morse Code Assessor (for others wishing to take the exams), and provide three **GB2CW** broadcasts a week: Sundays at 1930hz on 3555kHz or 7066kHz (+/- for QRM), and on Mondays and Thursdays at 2000hz on 144.600MHz (FM).*
+
+![GB2CW](images/GB2CW.png)
