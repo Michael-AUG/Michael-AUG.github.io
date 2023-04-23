@@ -20,14 +20,18 @@ I have made use all of the above types of NoVs. A few of the variations from gro
 - [GB5AAW - Marking Autism Awareness Week](https://www.qrz.com/db/gb5aaw) - from 25th March to 2nd April 2023
 - [GB5VIZ - marking Churches and Chapels On The Air Day](https://www.qrz.com/db/gb5viz) - 09 September 2023
 
-I also hold NoVs to transmit on
-- 146-147MHz (until 31 October 2023)
-- 2300-2302MHz (until 27 March 2026)
-- 275GHz and above (until 27 March 2026)
+I also hold the following 'group 3' (my designation) NoVs:
 
+| Frequency Allocation | NoV Issued | NoV Expiry |
+| :------------------: | :--------: | :--------: |
+| 146MHz to 147MHz | 27 March 2023 | 31 October 2023 |
+| 2300MHz to 2302MHz | 27 March 2023 | 27 March 2026 |
+| 275GHz and above | 27 March 2023 | 27 March 2026 |
 
-**Some example NoVs**
+Some example NoVs**
 
 ![2Q0GUI](images/1ae86-screenshot-2023-01-04-at-22.28.48.jpg)
+
+and
 
 ![GB5AAEW](images/gb5aawnew.png)
