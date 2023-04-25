@@ -72,7 +72,7 @@ controls
 When /Mobile in the car, I use a **Kenwood TM-D710**, a V/UHF Dual Bander which gives 50w output on both 2m and 70cm. With it I use a 5/8λ whip attached to a Mag-Mount.
 
 ![Baofeng UV-5R](images/baofeng.jpg)
-*Stock image of a Baofeng UV-5R*
+<br>*Stock image of a Baofeng UV-5R*
 
 As do so many other amateurs, I have a couple of the **Baofeng** dual band range of handheld transceivers - a **UV-5R and a UV-5R Plus**. 
 
