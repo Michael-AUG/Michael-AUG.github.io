@@ -67,7 +67,7 @@ controls
 **VFH and UHF**
 
 ![Kenwood Mobile Rig](images/kenwood.jpeg)
-*Stock image of a Kenwood TM-D710
+*Stock image of a Kenwood TM-D710*
 
 When /Mobile in the car, I use a Kenwood TM-D710, a V/UHF Dual Bander which gives 50w output on both 2m and 70cm. With it I use a 5/8λ whip attached to a Mag-Mount.
 
