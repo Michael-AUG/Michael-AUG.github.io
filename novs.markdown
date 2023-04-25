@@ -4,7 +4,8 @@ title: NOVs
 permalink: /novs/
 ---
 
-Since first being licenced in 2012, I have operated under a number of NoVs. NoVs are 'Notices of Variation', allowing the operator to vary his callsign or the terms of his licence. NoVs fall into four main categories[^1]:
+Since first being licenced in 2012, I have operated under a number of NoVs. NoVs are 'Notices of Variation', allowing the operator to vary his callsign or the terms of his licence. NoVs fall into four main categories[^1]
+
 [^1]: Note these are my designations only and not official category types.
 
 1. Regional Secondary Location NoVs
