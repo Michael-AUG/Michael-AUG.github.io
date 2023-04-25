@@ -69,17 +69,17 @@ controls
 ![Kenwood Mobile Rig](images/kenwood.jpeg)
 *Stock image of a Kenwood TM-D710*
 
-When /Mobile in the car, I use a Kenwood TM-D710, a V/UHF Dual Bander which gives 50w output on both 2m and 70cm. With it I use a 5/8λ whip attached to a Mag-Mount.
+When /Mobile in the car, I use a **Kenwood TM-D710**, a V/UHF Dual Bander which gives 50w output on both 2m and 70cm. With it I use a 5/8λ whip attached to a Mag-Mount.
 
 ![Baofeng UV-5R](images/baofeng.jpg)
 *Stock image of a Baofeng UV-5R*
 
-As do so many other amateurs, I have a couple of the Baofeng dual band range of handheld transceivers - a UV-5R and a UV-5R Plus. 
+As do so many other amateurs, I have a couple of the **Baofeng** dual band range of handheld transceivers - a **UV-5R and a UV-5R Plus**. 
 
 ![Kenpro KT-22](images/kenpro.jpg)
 *Kenpro KT-22 2m FM Transceiver*
 
-I also use this vintage 2m handheld transceiver - a Kenpro KT-22 - from 1990. This transceiver produces either 1.5w or 150mW, is equipped to work with +/- 600kHz repeater shifts, and has a 1750Hz toneburst button. 
+I also use this vintage 2m handheld transceiver - a **Kenpro KT-22** - from 1990. This transceiver produces either 1.5w or 150mW, is equipped to work with +/- 600kHz repeater shifts, and has a 1750Hz toneburst button. 
 
 See the below review from *Practical Wireless* (November 1990)
 
