@@ -28,6 +28,7 @@ A very young Michael being awarded the ECWARC **‘G4OAD Memorial Trophy’** by
 (Taken from the **June 2014** CRA Newsletter)
 <br>
 <br>
+
 ![WACRAL Wedding Day](images/wacralwedding.jpg)
 
 I married Jackie in **August 2022**, and was both delighted and surprised to see this photo appear on the front cover of WACRAL's Autumn 2022 Members' Newsletter. Note the Editor has superimposed a Baofeng handheld - I wouldn't have been allowed to take one up the aisle!
