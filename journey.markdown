@@ -24,8 +24,8 @@ In **July 2013** I was privileged to be invited to join the line-up at the **RSG
 ![G4OAD trophy](images/4bfb0-ecwarcaward.jpg)
 
 A very young Michael being awarded the ECWARC **‘G4OAD Memorial Trophy’** by Stephen Cocks G4ZUL. 
->“The award is made each year by the ECWARC committee to the nominated person that they deem the most improved CW learner/practitioner in the previous 12 months. Michael was awarded the trophy as he had joined the regular practice sessions run for CRA by Jonathan G0DVJ and others on Sunday and Monday evenings on air, and quickly caught up the progress of the others on those sessions. Michael is the second CRA member to be a recipient of the trophy. Jeff G7TAT won the award two years previously.” (Taken from the **June 2014** CRA Newsletter)
 
+>“The award is made each year by the ECWARC committee to the nominated person that they deem the most improved CW learner/practitioner in the previous 12 months. Michael was awarded the trophy as he had joined the regular practice sessions run for CRA by Jonathan G0DVJ and others on Sunday and Monday evenings on air, and quickly caught up the progress of the others on those sessions. Michael is the second CRA member to be a recipient of the trophy. Jeff G7TAT won the award two years previously.” (Taken from the **June 2014** CRA Newsletter)
 
 ![WACRAL Wedding Day](images/wacralwedding.jpg)
 
