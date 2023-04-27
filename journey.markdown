@@ -3,6 +3,7 @@ layout: page
 title: My Amateur Radio Journey
 permalink: /journey/
 ---
+#My Amateur Radio Journey
 
 ![GB3RS](images/9d257-gb3rs.jpg)
 
@@ -17,7 +18,7 @@ In **January 2013** an article appeared in RadCom, mentioning my visit to the NR
 
 
 ![Bletchley Park](images/BletchleyCentenary.jpg)
-*Michael, as part of the Centenary line-up, being introduced to the Lord Lieut. of Bucks*
+*Michael, as part of the RSGB Centenary line-up, being introduced to the Lord Lieut. of Bucks*
 
 In **July 2013** I was privileged to be invited to join the line-up at the **RSGB Centenary Day**, celebrating 100 years of the RSGB. It had been hoped that His Royal Highness the Duke of Edinburgh would attend, but owing to ill health HRH pulled out. It was a pleasure to be introduced to the Lord Lieutenant of Bucks. (Sir Henry Aubrey Fletcher), the High Sheriff of Buckingham (Sir Stuart Hamspon), and Councillor Brian White, Mayor of Milton Keynes.
 
