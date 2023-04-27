@@ -3,7 +3,7 @@ layout: page
 title: My Amateur Radio Journey
 permalink: /journey/
 ---
-#My Amateur Radio Journey
+# My Amateur Radio Journey
 
 ![GB3RS](images/9d257-gb3rs.jpg)
 
