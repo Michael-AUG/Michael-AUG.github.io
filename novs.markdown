@@ -31,7 +31,7 @@ I also hold the following 'group 3' NoVs:
 | 2300MHz to 2302MHz | 27 March 2023 | 27 March 2026 |
 | 275GHz and above | 27 March 2023 | 27 March 2026 |
 
-**Other callsigns I have operated as**
+**Other callsigns I have operated under**<br>
 *(Full licensees are allowed to operate using Club callsigns with the relevant licence holder's permission)*
 | Callsign | Belonging to | Date(s) |
 | :-----: | :-----: | :-----: |
