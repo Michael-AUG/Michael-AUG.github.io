@@ -31,6 +31,14 @@ I also hold the following 'group 3' NoVs:
 | 2300MHz to 2302MHz | 27 March 2023 | 27 March 2026 |
 | 275GHz and above | 27 March 2023 | 27 March 2026 |
 
+**Other callsigns I have operated as**
+*(Full licensees are allowed to operate using Club callsigns with the relevant licence holder's permission)*
+| Callsign | Belonging to | Date(s) |
+| :-----: | :-----: | :-----: |
+| MS0WSG | ![Glasgow University Wireless Society](https://www.mm0wsg.radio) | Ongoing |
+| GS4AGU | ditto. | ditto. |
+| GS3CO | ![Colchester Radio Amateurs](http://www.g3co.uk/) | 1st to 31st April 2023 |
+
 **Some example NoVs**
 
 ![2Q0GUI](images/1ae86-screenshot-2023-01-04-at-22.28.48.jpg)
