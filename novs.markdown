@@ -36,9 +36,9 @@ I also hold the following 'group 3' NoVs:
 
 | Callsign | Belonging to | Date(s) |
 | :-----: | :-----: | :-----: |
-| MS0WSG | ![Glasgow University Wireless Society](https://www.mm0wsg.radio) | Ongoing |
+| MS0WSG | [Glasgow University Wireless Society](https://www.mm0wsg.radio) | Ongoing |
 | GS4AGU | ditto. | ditto. |
-| GS3CO | ![Colchester Radio Amateurs](http://www.g3co.uk/) | 1st to 31st April 2023 |
+| GS3CO | [Colchester Radio Amateurs](http://www.g3co.uk/) | 1st to 31st April 2023 |
 
 **Some example NoVs**
 
