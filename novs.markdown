@@ -33,6 +33,7 @@ I also hold the following 'group 3' NoVs:
 
 **Other callsigns I have operated under**<br>
 *(Full licensees are allowed to operate using Club callsigns with the relevant licence holder's permission)*
+
 | Callsign | Belonging to | Date(s) |
 | :-----: | :-----: | :-----: |
 | MS0WSG | ![Glasgow University Wireless Society](https://www.mm0wsg.radio) | Ongoing |
