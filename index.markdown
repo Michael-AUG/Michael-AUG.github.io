@@ -9,6 +9,8 @@ Welcome to my website - please take a look around!
 
 73 de Michael GM5AUG.
 
+**Please note I surrendered my MM6EIO and 2M0GUI callsigns in May 2023 and no longer use these on air.**
+
 **Have I been on air in the last 24hrs??**
 
 ![Ham Alert](https://hamalert.org/myspot?c=GM5AUG&h=f28667128cef90b4&a=24)
