@@ -9,7 +9,6 @@ Welcome to my website - please take a look around!
 
 73 de Michael GM5AUG.
 
-**Please note I surrendered my MM6EIO and 2M0GUI callsigns in May 2023 and no longer use these on air.**
 
 **Have I been on air in the last 24hrs??**
 
@@ -21,7 +20,7 @@ Welcome to my website - please take a look around!
 
 **All *bona fide* with eQSL!**
 
-![eQSL Auth](https://gm5augneotes.files.wordpress.com/2023/03/cfimg-7018176395797915477.png?w=580)
+![eQSL Auth](images/eQSL.png)
 
 **Current HF and VHF propogation**
 
