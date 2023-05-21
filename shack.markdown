@@ -14,7 +14,7 @@ My main radio in the shack is an Icom IC-7100, this giving me 100w output across
 ![Heathkit HW-8](images/Heathkit.jpg)
 <br>*The Heathkit HW-8*
 
-A new addition to my radio shack is this 1978 Heathkit HW-8 QRP transceiver. These rigs have a cult following in amateur radio owing to their simplicity, popularity and price. Giving between 2.5w to 3.5w INPUT on the 80m, 40m, 20m and 15m amateur bands, this rig is a lovely example of highly technical, yet compact, 70s radio technology. My rig is a little 'QRH' (the frequency can vary) but I am hoping to be able to remedy this (and a few other issues) before too long. I will normally sign '/QRP' when using this rig as it produces less than 5w.
+A new addition to my radio shack is this 1978 Heathkit HW-8 QRP transceiver. These rigs have a cult following in amateur radio owing to their simplicity, popularity and price. Giving between 2.5w to 3.5w INPUT on the 80m, 40m, 20m and 15m amateur bands, this rig is a lovely example of highly technical, yet compact, 70s radio technology. My rig is a little 'QRH' (the frequency can vary!) but I am hoping to be able to remedy this (and a few other issues) before too long. I will normally sign '/QRP' when using this rig as it produces less than 5w. More information can be found at [RigPix - Heathkit HW-8](https://www.rigpix.com/heathkit/hw8.htm) or the [HW-8 Handbook](http://www.radiomanual.info/schemi/Surplus_Radioamateur/Heathkit_HW-8_handbook_2ed_2008.pdf). I've already managed to work a few stations using 'Hetty' and look forward to working others.
 
 ![Key and Rig](images/IMG_0521.jpg)
 *My Morse paddle key - a MFJ-564 - with my rig in the background*
