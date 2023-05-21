@@ -11,6 +11,11 @@ As mentioned elsewhere, my first radio was an Icom IC-706 Mk1, borrowed from the
 
 My main radio in the shack is an Icom IC-7100, this giving me 100w output across the HF bands, 50w on 2m and 35w on 70cms.  I have made an End Fed Long Wire antenna (with a 9:1 UnUn) which tunes, with relative ease, across from 160m to 6m. For VHF I use a metal 'Slim Jim' antenna. My QTH being high above the city of Glasgow gives me good coverage on 2m, allowing me to be well heard for my GB2RS and GB2CW broadcasts, and for running the Glasgow University Wireless Society Nets. Aside from these, I don't often use VHF, normally using HF, and CW at that. Also seen in this picture, just nestled in the backgrond, is the little black box which contains my Raspberry Pi. I use the Pi to take VFO information from the radio and upload it to CloudLog, allowing me to log all of my contacts. CloudLog then automatically synchronizes with eQSL, LOTW and QRZ.com.
 
+![Heathkit HW-8](images/Heathkit.jpg)
+<br>*The Heathkit HW-8*
+
+A new addition to my radio shack is this 1978 Heathkit HW-8 QRP transceiver. These rigs have a cult following in amateur radio owing to their simplicity, popularity and price. Giving between 2.5w to 3.5w INPUT on the 80m, 40m, 20m and 15m amateur bands, this rig is a lovely example of highly technical, yet compact, 70s radio technology. My rig is a little 'QRH' (the frequency can vary) but I am hoping to be able to remedy this (and a few other issues) before too long. I will normally sign '/QRP' when using this rig as it produces less than 5w.
+
 ![Key and Rig](images/IMG_0521.jpg)
 *My Morse paddle key - a MFJ-564 - with my rig in the background*
 
