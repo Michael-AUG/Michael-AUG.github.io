@@ -47,7 +47,7 @@ controls
     </audio>
 
 
-**A few images of Michael /QRP**
+## HF Operation
 
 ![The Xiegu G106 radio](/images/4ee77-xiegu-g106-hf-transceiver-3.jpeg)
 *My Xiegu G106 QRP radio set*
@@ -64,7 +64,7 @@ controls
 ![GM5AUG/QRP](/images/676da-323527926_857464428807131_387242739454321519_n.jpg)
 */QRP antennas at Troon - a 40m whip on the car, and a 20m dipole* 
 
-**VFH and UHF**
+## VHF and UHF Operation
 
 ![Kenwood Mobile Rig](images/kenwood.jpeg)
 *Stock image of a Kenwood TM-D710*
@@ -74,7 +74,7 @@ When /Mobile in the car, I use a **Kenwood TM-D710**, a V/UHF Dual Bander which 
 ![Baofeng UV-5R](images/baofeng.jpg)
 <br>*Stock image of a Baofeng UV-5R*
 
-As do so many other amateurs, I have a couple of the **Baofeng** dual band range of handheld transceivers - a **UV-5R and a UV-5R Plus**. 
+As do so many other amateurs, I have a couple of the **Baofeng** dual band range of handheld transceivers - a **UV-5R and a UV-5R Plus**. One of these is currently on loan to newly licensed MM7LWS.
 
 ![Kenpro KT-22](images/kenpro.jpg)
 *Kenpro KT-22 2m FM Transceiver*
@@ -84,3 +84,8 @@ I also use this vintage 2m handheld transceiver - a **Kenpro KT-22** - from 1990
 See the below review from *Practical Wireless* (November 1990)
 
 ![Kenpro KT-22 Review in Practical Wireless](images/KenproPW.jpg)
+
+![Yaesu FT-290R](images/yaesu.jpg)
+*Yaes FT-290R 2m Transceiver*
+
+My latest purchase is this vintage 2m transceiver, made by Yaesu in 1982. Producing either 2.5W or 500mW of USB/LSB/CW/FM, the rig is powered by eight C-cell batteries, or an external power supply. Neatly the rig has its own telescopic whip included, alongside the option to use an external antenna. While I have not used it in 'anger' yet, I look forward to doing so - particularly as this radio has a CW and SSB mode, something many portable 2m rigs do not have.
