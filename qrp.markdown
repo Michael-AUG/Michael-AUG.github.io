@@ -86,6 +86,6 @@ See the below review from *Practical Wireless* (November 1990)
 ![Kenpro KT-22 Review in Practical Wireless](images/KenproPW.jpg)
 
 ![Yaesu FT-290R](images/yaesu.jpg)
-*Yaes FT-290R 2m Transceiver*
+*Yaesu FT-290R 2m Transceiver*
 
 My latest purchase is this vintage 2m transceiver, made by Yaesu in 1982. Producing either 2.5W or 500mW of USB/LSB/CW/FM, the rig is powered by eight C-cell batteries, or an external power supply. Neatly the rig has its own telescopic whip included, alongside the option to use an external antenna. While I have not used it in 'anger' yet, I look forward to doing so - particularly as this radio has a CW and SSB mode, something many portable 2m rigs do not have.
