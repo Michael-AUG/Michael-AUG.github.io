@@ -37,7 +37,7 @@ controls
             </a>
     </audio>
 
-GM5AUG/QRP received by the Hack Green WebSDR (approx. 523m away) using 1W TX power - 5260kHz 10/Apr/2023 
+GM5AUG/QRP received by the Hack Green WebSDR (approx. 260m away) using 1W TX power - 5260kHz 10/Apr/2023 
 <audio 
 controls
         src="/files/websdr_recording_2023-04-10t12-24-59z_5260.0khz.wav">
@@ -47,7 +47,7 @@ controls
     </audio>
 
 
-GM5AUG/QRP received by the Hack Green WebSDR (approx. 523m away) using 1W TX power from his Heathkit HW-8 (see the [Shack](https://gm5aug.topple.scot/shack) page) - 3507kHz 22/May/2023 
+GM5AUG/QRP received by the Hack Green WebSDR (approx. 260m away) using 1W TX power from his Heathkit HW-8 (see the [Shack](https://gm5aug.topple.scot/shack) page) - 3507kHz 22/May/2023 
 <audio 
 controls
         src="/files/websdr_20230522_3507.wav">
