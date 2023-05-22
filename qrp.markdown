@@ -6,11 +6,11 @@ permalink: /qrp/
 
 While most of my operating takes place at home (see my Shack page), I do enjoy taking my QRP radio out portable. There are a variety of locations that I've used over the years, whether on my own or with other amateurs.
 
-Until fairly recently, I would take my shack Icom IC-7100 out and about with me, keeping it in a briefcase that I modified for purpose. However I wasn't particularly comfortable with this setup, so with some Christmas money was able to buy a wee Xiegu G106 QRP radio. This radio, which provides between 5-10w of CW, SSB or AM, is compact enough to fit into a small satchel, along with a battery, AMU, key and roll of wire for an antenna.
+Until fairly recently, I would take my shack Icom IC-7100 out and about with me, keeping it in a briefcase that I modified for purpose. However I wasn't particularly comfortable with this setup, so with some Christmas money was able to buy a wee Xiegu G106 QRP radio. This radio, which provides between 5-10W of CW, SSB or AM, is compact enough to fit into a small satchel, along with a battery, AMU, key and roll of wire for an antenna.
 
 By way of a demonstration, below are recordings taken from various WebSDRs, showing how well a low power transmission can be heard around the world.
 
-2M0GUI/QRP received by the Hack Green WebSDR (approx. 260m away) using 1w TX power - 7014kHz 09/Oct/2022
+2M0GUI/QRP received by the Hack Green WebSDR (approx. 260m away) using 1W TX power - 7014kHz 09/Oct/2022
 <audio
 controls
         src="/files/614ca-hack-green-1w-with-explanation.mp3">
@@ -19,7 +19,7 @@ controls
             </a>
     </audio>
  
-2M0GUI/QRP received by the PH4RTM WebSDR (approx. 523m away) using 5w TX power - 7014kHz 09/Oct/2022 
+2M0GUI/QRP received by the PH4RTM WebSDR (approx. 523m away) using 5W TX power - 7014kHz 09/Oct/2022 
 <audio 
 controls
         src="/files/856ae-ph4rtm-netherlands-5w-rx.mp3">
@@ -28,7 +28,7 @@ controls
             </a>
     </audio>
  
-2M0GUI/QRP received by the K3FEF WebSDR (approx. 3,224m away) using 3w TX power - 18074kHz 11/Oct/2022 
+2M0GUI/QRP received by the K3FEF WebSDR (approx. 3,224m away) using 3W TX power - 18074kHz 11/Oct/2022 
 <audio 
 controls
         src="/files/89d6f-k3fef-east-america-3w-rx.wav">
@@ -37,7 +37,7 @@ controls
             </a>
     </audio>
 
-GM5AUG/QRP received by the Hack Green WebSDR (approx. 523m away) using 1w TX power - 5260kHz 10/Apr/2023 
+GM5AUG/QRP received by the Hack Green WebSDR (approx. 523m away) using 1W TX power - 5260kHz 10/Apr/2023 
 <audio 
 controls
         src="/files/websdr_recording_2023-04-10t12-24-59z_5260.0khz.wav">
@@ -69,7 +69,7 @@ controls
 ![Kenwood Mobile Rig](images/kenwood.jpeg)
 *Stock image of a Kenwood TM-D710*
 
-When /Mobile in the car, I use a **Kenwood TM-D710**, a V/UHF Dual Bander which gives 50w output on both 2m and 70cm. With it I use a 5/8λ whip attached to a Mag-Mount.
+When /Mobile in the car, I use a **Kenwood TM-D710**, a V/UHF Dual Bander which gives 50W output on both 2m and 70cm. With it I use a 5/8λ whip attached to a Mag-Mount.
 
 ![Baofeng UV-5R](images/baofeng.jpg)
 <br>*Stock image of a Baofeng UV-5R*
@@ -79,7 +79,7 @@ As do so many other amateurs, I have a couple of the **Baofeng** dual band range
 ![Kenpro KT-22](images/kenpro.jpg)
 *Kenpro KT-22 2m FM Transceiver*
 
-I also use this vintage 2m handheld transceiver - a **Kenpro KT-22** - from 1990. This transceiver produces either 1.5w or 150mW, is equipped to work with +/- 600kHz repeater shifts, and has a 1750Hz toneburst button. 
+I also use this vintage 2m handheld transceiver - a **Kenpro KT-22** - from 1990. This transceiver produces either 1.5W or 150mW, is equipped to work with +/- 600kHz repeater shifts, and has a 1750Hz toneburst button. 
 
 See the below review from *Practical Wireless* (November 1990)
 
