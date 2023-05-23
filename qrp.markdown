@@ -6,11 +6,10 @@ permalink: /qrp/
 
 While most of my operating takes place at home (see my Shack page), I do enjoy taking my QRP radio out portable. There are a variety of locations that I've used over the years, whether on my own or with other amateurs.
 
-Until fairly recently, I would take my shack Icom IC-7100 out and about with me, keeping it in a briefcase that I modified for purpose. However I wasn't particularly comfortable with this setup, so with some Christmas money was able to buy a wee Xiegu G106 QRP radio. This radio, which provides between 5-10W of CW, SSB or AM, is compact enough to fit into a small satchel, along with a battery, AMU, key and roll of wire for an antenna.
+Until fairly recently, I would take my shack Icom IC-7100 out and about with me, keeping it in a briefcase that I modified for purpose. However I wasn't particularly comfortable with this setup, so with some Christmas money was able to buy a wee Xiegu G106 QRP radio. This radio, which provides between 5-8W of CW, SSB or AM, is compact enough to fit into a small satchel, along with a battery, AMU, key and roll of wire for an antenna.
 
 By way of a demonstration, below are recordings taken from various WebSDRs, showing how well a low power transmission can be heard around the world.
 
-2M0GUI/QRP received by the Hack Green WebSDR (approx. 260m away) using 1W TX power - 7014kHz 09/Oct/2022
 <audio
 controls
         src="/files/614ca-hack-green-1w-with-explanation.mp3">
@@ -18,8 +17,8 @@ controls
                 Download audio
             </a>
     </audio>
- 
-2M0GUI/QRP received by the PH4RTM WebSDR (approx. 523m away) using 5W TX power - 7014kHz 09/Oct/2022 
+2M0GUI/QRP received by the Hack Green WebSDR (approx. 260m away) using 1W TX power - 7014kHz 09/Oct/2022
+
 <audio 
 controls
         src="/files/856ae-ph4rtm-netherlands-5w-rx.mp3">
@@ -27,8 +26,8 @@ controls
                 Download audio
             </a>
     </audio>
+2M0GUI/QRP received by the PH4RTM WebSDR (approx. 523m away) using 5W TX power - 7014kHz 09/Oct/2022 
  
-2M0GUI/QRP received by the K3FEF WebSDR (approx. 3,224m away) using 3W TX power - 18074kHz 11/Oct/2022 
 <audio 
 controls
         src="/files/89d6f-k3fef-east-america-3w-rx.wav">
@@ -36,8 +35,8 @@ controls
                 Download audio
             </a>
     </audio>
+2M0GUI/QRP received by the K3FEF WebSDR (approx. 3,224m away) using 3W TX power - 18074kHz 11/Oct/2022 
 
-GM5AUG/QRP received by the Hack Green WebSDR (approx. 260m away) using 1W TX power - 5260kHz 10/Apr/2023 
 <audio 
 controls
         src="/files/websdr_recording_2023-04-10t12-24-59z_5260.0khz.wav">
@@ -45,22 +44,21 @@ controls
                 Download audio
             </a>
     </audio>
+GM5AUG/QRP received by the Hack Green WebSDR (approx. 260m away) using 1W TX power - 5260kHz 10/Apr/2023 
 
-
-GM5AUG/QRP received by the Hack Green WebSDR (approx. 260m away) using 1W TX power from his Heathkit HW-8 (see the [Shack](https://gm5aug.topple.scot/shack) page) - 3507kHz 22/May/2023 
 <audio 
 controls
         src="/files/websdr_20230522_3507.wav">
-            <a href="/files/websdr_20230522_3507.wav"
->
+            <a href="/files/websdr_20230522_3507.wav">
                 Download audio
             </a>
     </audio>
+GM5AUG/QRP received by the Hack Green WebSDR (approx. 260m away) using 1W TX power from his Heathkit HW-8 (see the [Shack](https://gm5aug.topple.scot/shack) page) - 3507kHz 22/May/2023 
 
 ## HF Operation
 
 ![The Xiegu G106 radio](/images/4ee77-xiegu-g106-hf-transceiver-3.jpeg)
-*My Xiegu G106 QRP radio set*
+*My Xiegu G106 QRP radio set, as mentioned above*
 
 ![M6EIO/P](/images/03815-m6eio-portable.jpg)
 *A young Michael (M6EIO/P) on Mersea Island with Kevan 2E0WMG*
@@ -98,4 +96,4 @@ See the below review from *Practical Wireless* (November 1990)
 ![Yaesu FT-290R](images/yaesu.jpg)
 *Yaesu FT-290R 2m Transceiver*
 
-My latest purchase is this vintage 2m transceiver, made by Yaesu in 1982. Producing either 2.5W or 500mW of USB/LSB/CW/FM, the rig is powered by eight C-cell batteries, or an external power supply. Neatly the rig has its own telescopic whip included, alongside the option to use an external antenna. While I have not used it in 'anger' yet, I look forward to doing so - particularly as this radio has a CW and SSB mode, something many portable 2m rigs do not have.
+My latest purchase is this vintage 2m transceiver, made by Yaesu in 1982. Producing either 2.5W or 500mW of USB/LSB/CW/FM, the rig is powered by eight C-cell batteries, or an external power supply. Neatly the rig has its own telescopic whip included, alongside the option to use an external antenna. While I have not used it in the field yet, owing to a few repairs I need to make, I look forward to doing so - particularly as this radio has a CW and SSB mode, something many portable 2m rigs do not have.
