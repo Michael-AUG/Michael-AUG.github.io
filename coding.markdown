@@ -1,0 +1,10 @@
+---
+layout: page
+title: Coding
+permalink: /coding/
+---
+I studied Computer Science at College and, although it has been a number of years since I was using it regularly, I did build up a reasonable knowledge of certain programming languages. Since moving to the Linux ecosystem I have rekindled my interest in programming, writing scripts and applications to speed up or simplify certain tasks.
+
+An example of this is the F2A Morse Rigctld script I have written, which integrates the ['morse' application](https://gitlab.com/esr/morse-classic) with the rig control functions [(rigctl) of Hamlib](https://github.com/Hamlib/Hamlib). This enables me to send evenly sped Morse Code over FM for my 2m GB2CW broadcasts.
+
+You can find this, and various other projects I have worked on, on [my GitHub page](https://github.com/Michael-AUG). I am grateful to various people for helping me with my projects, not limited to Mitch AB4MW, Torin MM1STK and Tom M0LTE. I am certainly still an 'amateur' coder but enjoy it when a piece of code speeds up or simplifies my life. 
