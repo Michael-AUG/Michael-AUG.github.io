@@ -24,7 +24,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   The website of Michael Topple GM5AUG, formerly known as 2M0GUI and M6EIO. Located in IO75US.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: ToppleMichael
+twitter_username:
 github_username:  Michael-AUG
 
 # Build settings
