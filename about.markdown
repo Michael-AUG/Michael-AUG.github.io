@@ -4,7 +4,7 @@ title: About Me
 permalink: /about/
 ---
 
-![Michael](images/fffc8-mtoppo1.jpg)
+![Logo](images/logoNEW.png)
 
 Greetings and welcome to my simple webpage. My name is Michael – or ‘Mike’ on the air.
 
