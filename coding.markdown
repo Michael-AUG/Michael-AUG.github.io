@@ -9,4 +9,8 @@ An example of this is the F2A Morse Rigctld script I have written, which integra
 
 You can find this, and various other projects I have worked on, on [my GitHub page](https://github.com/Michael-AUG). I am grateful to various people for helping me with my projects, not limited to Mitch AB4MW, Torin MM1STK and Tom M0LTE. I am certainly still an 'amateur' coder but enjoy it when a piece of code speeds up or simplifies my life. 
 
+As well as Bash scripting, I have also learned Markdown and have used that to create this website entirely in the Nano Terminal text editor. See below:
+
+![Editing the webpage in Nano](images/bash.png)
+
 ![The Linux Radio Ham](images/ham_linux.png)
