@@ -12,7 +12,7 @@ I began my interest Amateur Radio when I was fifteen, after a visit to the [Nati
 
 My XYL and I moved from Colchester to Glasgow in January 2022 as I took up my studies at the University of Glasgow, operating initially as 2M0GUI.
 
-Nearly ten years after gaining my Intermediate licence, on 13th March 2023, I (finally!) sat and passed my Full exam, taking the callsign GM5AUG a couple of days later. I was pleased to be able to choose the three letters at the end of my call, and chose them in memory of Ron G4AUG, now S/K, who features throughout this website. You can read more about how I came in to Amateur Radio in the [my journey](https://gm5aug.topple.scot/journey/) page.
+Nearly ten years after gaining my Intermediate licence, on 13th March 2023, I (finally!) sat and passed my Full exam, taking the callsign GM5AUG a couple of days later. I was pleased to be able to choose the three letters at the end of my call, and chose them in memory of Ron G4AUG, now S/K, who features throughout this website. You can read more about how I came in to Amateur Radio in the [My Journey](https://gm5aug.topple.scot/journey/) page.
 
 In my spare time, I enjoy researching vintage or antique Amateur Radio ephemera, a selection of which may be viewed in the [File Store](https://www.qsl.net/2m0gui/FileStore). I often update this so do check back every now and then. Those interested in Amateur Radio history may find [this link](http://www.g4kfk.co.uk/) of interest, while [this link](https://www.bbc.co.uk/sounds/play/p0b0yl8p) goes to a fascinating BBC documentary about the early days of broadcasting and [this link](https://www.youtube.com/watch?v=kcZ7kmdh6LU&list=WL&index=9) to a BBC Radio 4 documentary about amateur radio. 
 

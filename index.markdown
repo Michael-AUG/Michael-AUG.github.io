@@ -2,7 +2,7 @@
 layout: page
 ---
 
-Welcome to my website - please take a look around!
+Please use the links above to navigate around my website. Thank you for visiting.
 
 73 de Michael GM5AUG.
 
