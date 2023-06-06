@@ -2,8 +2,6 @@
 layout: page
 ---
 
-![Michael GM5AUG](images/GM5AUGatG0DVJ.jpg)
-
 Welcome to my website - please take a look around!
 
 73 de Michael GM5AUG.
