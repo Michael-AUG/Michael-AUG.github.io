@@ -2,7 +2,7 @@
 layout: page
 ---
 
-![Logo](logoNEW.png)
+![Logo](images/logoNEW.png)
 
 Please use the links above to navigate around my website. Thank you for visiting.
 
