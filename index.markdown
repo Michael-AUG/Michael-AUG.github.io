@@ -2,6 +2,8 @@
 layout: page
 ---
 
+![Logo](logoNEW.png)
+
 Please use the links above to navigate around my website. Thank you for visiting.
 
 73 de Michael GM5AUG.
