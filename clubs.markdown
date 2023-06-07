@@ -15,7 +15,7 @@ I am part of a number of clubs, and I have listed these below, with links to the
 <br>[GMDX](https://www.gmdx.org.uk/) - I am pleased to serve as Secretary of the GMDX Group. **GS8VL**
 
 ![OARC](images/oarcboth-3.png)
-<br>[OARC](https://www.oarc.uk/) - I am part of the Online Amateur Radio Community and serve on the Training Team and the Media/Editorial Team. In addition, along with Colin GM4JPZ, I am Net Controller for the weekly [Slow to Medium Speed Morse Net](https://youtu.be/FThWgUm5s6M). **M(S)0OUK**
+<br>[OARC](https://www.oarc.uk/) - I am part of the Online Amateur Radio Community and serve on the Training Team and the Media/Editorial Team. In addition, along with Colin GM4JPZ, I am Net Controller for the weekly [Slow to Medium Speed Morse Net](https://morse.oarc.uk). **M(S)0OUK**
 
 ![WACRAL](images/8adf3-lapel_pin.png)
 <br>[WACRAL](https://http://www.wacral.org/) - the World Association of Christian Radio Amateurs and Listeners - No. 1730. **M1CRA**
