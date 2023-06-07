@@ -5,7 +5,7 @@ permalink: /about/
 ---
 
 ![Image of Michael rendered in Linux Terminal using TIV](images/ToppleTIV.png)
-*Image of Michael rendered in the Linux Terminal using TIV*
+<br>*Image of Michael rendered in the Linux Terminal using TIV*
 
 This site deals mainly with my amateur radio activity, but please [click here](https://www.topple.scot) to view my Blog, [here](https://michaelrjtopple.academia.edu/) to view my profile on Academia, or [here](https://www.youtube.com/channel/UChCPndzIQ_Mp7z-5odZ4qHQ) to view my YouTube channel.
 
