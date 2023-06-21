@@ -7,7 +7,7 @@ permalink: /about/
 ![Image of Michael rendered in Linux Terminal using TIV](images/ToppleTIV.png)
 <br>*Image of Michael rendered in the Linux Terminal using TIV*
 
-This site deals mainly with my amateur radio activity, but please [click here](https://www.topple.scot/) to view my Blog, [here](https://michaelrjtopple.academia.edu/) to view my profile on Academia, or [here](https://www.youtube.com/channel/UChCPndzIQ_Mp7z-5odZ4qHQ) to view my YouTube channel.
+This site deals mainly with my amateur radio activity, but please [click here](https://www.topple.scot/) to view my Blog, or [here](https://michaelrjtopple.academia.edu/) to view my profile on Academia.
 
 My interest in Amateur Radio began when I was fifteen, after a visit to the [National Radio Centre](http://www.nationalradiocentre.com/) at Bletchley Park in Milton Keynes, England. After having a go on the radio there, I was hooked, and took my Foundation exam about two months later, gaining the callsign M6EIO with the Colchester Radio Amateurs (CRA). My first radio was a borrowed Icom IC-706 Mk1. In November 2013 I sat and passed my Intermediate Exam and took the callsign 2E0GUI.
 
