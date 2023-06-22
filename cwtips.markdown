@@ -4,6 +4,9 @@ title: CW Tips
 permalink: /cwtips/
 ---
 
+![Selection of Morse Keys](images/morse-keys.jpg)
+*Image courtesy of [Electronics Notes](https://www.electronics-notes.com/articles/ham_radio/morse_code/cw-keys-keyers.php)*
+
 Given my interest in CW, a number of people have asked some advice for learning CW. Below are some tips I prepared for someone recently.
 
 At the end of the day, however, everyone learns differently so don't take what I say as gospel...
