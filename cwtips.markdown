@@ -22,6 +22,10 @@ At the end of the day, however, everyone learns differently so don't take what I
 
 7) I started with a straight key before moving on to a paddle, and I think this is the best way to do it. 
 
-As I say, some may disagree with this advice. If so, why not contact me? After all, I want this to be good, solid advice.
+8) Remember - although there is a definite goal to learning CW, we should think of it as a journey and not a destination. We should be able to enjoy learning CW, particularly as we see the little milestones we pass along the way. In your learning journey, you will have good days and bad days - this is absolutely normal and part of the learning process.
 
-G0DVJ, who taught me CW, has written a far more comprehensive guide which can be found [on the CRA webpage](http://www.g3co.uk/Downloads.html).
+9) Finally, when you do move on to sending, remember that you do not need to be perfect before you can make a QSO, but you do need to make a QSO before you can be perfect! 'Stage fright' is perfectly normal, but until you are able to overcome it, a) you won't perfect your technique, and b) you won't realise how much fun communicating in CW is!
+
+As I say, some may disagree with this advice. If so, why not contact me? After all, I want this to be good, solid advice. Email address below.
+
+G0DVJ, who taught me CW, has written a far more comprehensive guide which can be found [on the CRA webpage](http://www.g3co.uk/Downloads.html) - I really recommend you take a look.
