@@ -51,7 +51,7 @@ $num5 = ($num4 - $hours)*60;
 $mins = intval($num5);
 ?>
 <ul>First Licensed</ul>
-<li><?
+<li><?php
 if($years<>1) {
 echo $years . ' yrs, ';
 } else {
@@ -103,7 +103,7 @@ $num5 = ($num4 - $hours)*60;
 $mins = intval($num5);
 ?>
 <ul>Licensed as GM5AUG</ul>
-<li><?
+<li><?php
 if($years<>1) {
 echo $years . ' yrs, ';
 } else {
