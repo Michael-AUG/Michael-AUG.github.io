@@ -52,27 +52,15 @@ $mins = intval($num5);
 ?>
 First Licensed
 <?php
-if($years<>1) {
-echo $years . ' yrs, ';
-} else {
-echo $years . ' yr, ';
-}
-if($months<>1) {
-echo $months . ' mths, ';
-} else {
-echo $months . ' mth, ';
-}
-if($weeks<>1) {
-echo $weeks . ' wks, ';
-} else {
-echo $weeks . ' wk, ';
-}
-if($days<>1) {
-echo $days . ' days ';
-} else {
-echo $days . ' day ';
-}
-echo $text;
+if($years<>1) {echo $years . ' yrs, ';
+} else {echo $years . ' yr, ';
+}if($months<>1) {echo $months . ' mths, ';
+} else {echo $months . ' mth, ';
+}if($weeks<>1) {echo $weeks . ' wks, ';
+} else {echo $weeks . ' wk, ';
+}if($days<>1) {echo $days . ' days ';
+} else {echo $days . ' day ';
+}echo $text;
 ?>
 
 <?php
