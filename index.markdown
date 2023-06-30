@@ -50,8 +50,8 @@ $hours = intval($num4);
 $num5 = ($num4 - $hours)*60;
 $mins = intval($num5);
 ?>
-<ul>First Licensed</ul>
-<li><?php
+First Licensed
+<?php
 if($years<>1) {
 echo $years . ' yrs, ';
 } else {
@@ -74,6 +74,7 @@ echo $days . ' day ';
 }
 echo $text;
 ?>
+
 <?php
 // enter start date below like this: "March 28, 2004"
 // $start = "March 28, 2004 20:00:00";
@@ -102,8 +103,8 @@ $hours = intval($num4);
 $num5 = ($num4 - $hours)*60;
 $mins = intval($num5);
 ?>
-<ul>Licensed as GM5AUG</ul>
-<li><?php
+Licensed as GM5AUG
+<?php
 if($years<>1) {
 echo $years . ' yrs, ';
 } else {
