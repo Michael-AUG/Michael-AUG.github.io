@@ -8,6 +8,53 @@ Please use the links above to navigate around my website. Thank you for visiting
 
 73 de Michael GM5AUG.
 
+<html>
+
+<script>
+
+var montharray=new Array("Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec")
+
+function countup(yr,m,d){
+var today=new Date()
+var todayy=today.getYear()
+if (todayy < 1000)
+todayy+=1900
+var todaym=today.getMonth()
+var todayd=today.getDate()
+var todaystring=montharray[todaym]+" "+todayd+", "+todayy
+var paststring=montharray[m-1]+" "+d+", "+yr
+var difference=(Math.round((Date.parse(todaystring)-Date.parse(paststring))/(24*60*60*1000))*1)
+difference+=" days"
+document.write("It\'s been "+difference+" since the I was first licensed as M6EIO")
+}
+//enter the count up date using the format year/month/day
+countup(2012,11,19)
+</script>
+
+<br>
+<script>
+
+var montharray=new Array("Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec")
+
+function countup(yr,m,d){
+var today=new Date()
+var todayy=today.getYear()
+if (todayy < 1000)
+todayy+=1900
+var todaym=today.getMonth()
+var todayd=today.getDate()
+var todaystring=montharray[todaym]+" "+todayd+", "+todayy
+var paststring=montharray[m-1]+" "+d+", "+yr
+var difference=(Math.round((Date.parse(todaystring)-Date.parse(paststring))/(24*60*60*1000))*1)
+difference+=" days"
+document.write("It\'s been "+difference+" since the I was licensed as GM5AUG")
+}
+//enter the count up date using the format year/month/day
+countup(2023,03,20)
+</script>
+
+
+</html>
 
 **Have I been on air in the last 24hrs??**
 
@@ -20,102 +67,6 @@ Please use the links above to navigate around my website. Thank you for visiting
 **All *bona fide* with eQSL!**
 
 ![eQSL Auth](images/eQSL.png)
-
-<html>
-<?php
-// enter start date below like this: "March 28, 2004"
-// $start = "March 28, 2004 20:00:00";
-$start = "November 07, 2012 19:00:00";
-// enter string of what this start date is.
-$text = "";
-
-//-------------------------- 
-
-$now = strtotime ("now");
-$then = strtotime ("$start");
-$difference = $now - $then;
-$num = $difference/86400;
-$num1 = $num/365;
-$years = intval($num1);
-$temp = $difference/86400 - $years*365;
-$num2 = $temp/30;
-$months = intval($num2);
-$temp = $difference/86400 - ($years*365) - ($months*30);
-$num3 = $temp/7;
-$weeks = intval($num3);
-$num3a = $difference/86400 - ($years*365) - ($months*30) - ($weeks*7);
-$days = intval($num3a);
-$num4 = ($difference/86400 - intval($difference/86400))*24;
-$hours = intval($num4);
-$num5 = ($num4 - $hours)*60;
-$mins = intval($num5);
-?>
-First Licensed
-<?php
-if($years<>1) {echo $years . ' yrs, ';
-} else {echo $years . ' yr, ';
-}if($months<>1) {echo $months . ' mths, ';
-} else {echo $months . ' mth, ';
-}if($weeks<>1) {echo $weeks . ' wks, ';
-} else {echo $weeks . ' wk, ';
-}if($days<>1) {echo $days . ' days ';
-} else {echo $days . ' day ';
-}echo $text;
-?>
-
-<?php
-// enter start date below like this: "March 28, 2004"
-// $start = "March 28, 2004 20:00:00";
-$start = "March 20, 2023 19:00:00";
-// enter string of what this start date is.
-$text = "";
-
-//-------------------------- 
-
-$now = strtotime ("now");
-$then = strtotime ("$start");
-$difference = $now - $then;
-$num = $difference/86400;
-$num1 = $num/365;
-$years = intval($num1);
-$temp = $difference/86400 - $years*365;
-$num2 = $temp/30;
-$months = intval($num2);
-$temp = $difference/86400 - ($years*365) - ($months*30);
-$num3 = $temp/7;
-$weeks = intval($num3);
-$num3a = $difference/86400 - ($years*365) - ($months*30) - ($weeks*7);
-$days = intval($num3a);
-$num4 = ($difference/86400 - intval($difference/86400))*24;
-$hours = intval($num4);
-$num5 = ($num4 - $hours)*60;
-$mins = intval($num5);
-?>
-Licensed as GM5AUG
-<?php
-if($years<>1) {
-echo $years . ' yrs, ';
-} else {
-echo $years . ' yr, ';
-}
-if($months<>1) {
-echo $months . ' mths, ';
-} else {
-echo $months . ' mth, ';
-}
-if($weeks<>1) {
-echo $weeks . ' wks, ';
-} else {
-echo $weeks . ' wk, ';
-}
-if($days<>1) {
-echo $days . ' days ';
-} else {
-echo $days . ' day ';
-}
-echo $text;
-?>
-</html>
 
 **Current HF and VHF propogation**
 
