@@ -8,9 +8,7 @@ Please use the links above to navigate around my website. Thank you for visiting
 
 73 de Michael GM5AUG.
 
-<html>
-
-<script>
+```js client
 
 var montharray=new Array("Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec")
 
@@ -29,10 +27,10 @@ document.write("It\'s been "+difference+" since the I was first licensed as M6EI
 }
 //enter the count up date using the format year/month/day
 countup(2012,11,19)
-</script>
+```
 
 <br>
-<script>
+```js client
 
 var montharray=new Array("Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec")
 
@@ -54,7 +52,7 @@ countup(2023,03,20)
 </script>
 
 
-</html>
+```
 
 **Have I been on air in the last 24hrs??**
 
