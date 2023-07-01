@@ -7,7 +7,7 @@ layout: page
 Please use the links above to navigate around my website. Thank you for visiting.
 
 73 de Michael GM5AUG.
-
+<br>
 <html>
 <script>
 var montharray=new Array("Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec")
