@@ -50,7 +50,7 @@ document.write("It\'s been "+difference+" since the I was licensed as GM5AUG")
 countup(2023,03,20)
 </script>
 </html>
-
+<br>
 **Have I been on air in the last 24hrs??**
 
 ![Ham Alert](https://hamalert.org/myspot?c=GM5AUG&h=f28667128cef90b4&a=24)
