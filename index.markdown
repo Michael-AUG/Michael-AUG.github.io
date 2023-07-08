@@ -26,7 +26,7 @@ difference+=" days"
 document.write("It\'s been "+difference+" since the I was first licensed as M6EIO")
 }
 //enter the count up date using the format year/month/day
-countup(2012,11,19)
+countup(2012,11,07)
 </script>
 <br>
 <script>
