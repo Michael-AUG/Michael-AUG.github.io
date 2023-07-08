@@ -93,6 +93,8 @@ I also use this vintage 2m handheld transceiver - a **Kenpro KT-22** - from 1990
 
 A little while ago, Colin (GM4JPZ) kindly gave me his old 2m SOTABeam, and this has given me many hours of pleasure as well. Photograph above shows me operating atop Corse Hill (GM/SS-236). I take my Kenpro (above) on these trips, and it is amazing how far 1.5W will get when a) it is directed and b) you have height on your side! The below map illustrates this - each dot on the map shows a station I worked from the hilltop!
 
+![SOTA Map](images/sotamap.jpg)
+
 See the below review from *Practical Wireless* (November 1990)
 
 ![Kenpro KT-22 Review in Practical Wireless](images/KenproPW.jpg)
