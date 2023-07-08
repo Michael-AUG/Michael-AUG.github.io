@@ -9,6 +9,7 @@ I am pleased to be a member of the Radio Society of Great Britain and firmly bel
 ![RSGB Membership cert.](images/RSGBMember.png)
 <br>*I became a member of the RSGB in 2012, after passing my Foundation Licence exam.*
 <br>
+I am DR13 (District Representative, district 13) for the RSGB, covering Ayrshire, Dumfries and Galloway.
 <br>
 ![GB2RS](images/4b496-gb2rswosars.png)
 <br>![Frank Hicks-Arnold](images/hicks_arnold.png)
