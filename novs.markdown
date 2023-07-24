@@ -39,6 +39,7 @@ I also hold the following 'group 3' NoVs:
 | MS0WSG | [Glasgow University Wireless Society](https://www.mm0wsg.radio) | Ongoing |
 | GS4AGU | ditto. | ditto. |
 | GS3CO | [Colchester Radio Amateurs](http://www.g3co.uk/) | 1st to 31st April 2023 |
+| GX3CO/P | ditto. (operated from Packing Shed Island) | 21st to 22nd July 2023 |
 
 **Some example NoVs**
 
@@ -46,4 +47,4 @@ I also hold the following 'group 3' NoVs:
 
 and
 
-![GB5AAEW](images/gb5aawnew.png)
+![GB5AAW](images/gb5aawnew.png)
