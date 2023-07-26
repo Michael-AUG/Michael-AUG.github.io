@@ -4,7 +4,10 @@ title: QRP and Portable
 permalink: /qrp/
 ---
 
-While most of my operating takes place at home (see my Shack page), I do enjoy taking my QRP radio out portable. There are a variety of locations that I've used over the years, whether on my own or with other amateurs.
+While most of my operating takes place at home (see my Shack page), I do enjoy taking my QRP radio out portable. There are a variety of locations that I've used over the years, whether on my own or with other amateurs. Two relatively recent examples of these were with Kevan (2E0WMG), who made videos of our adventures. You can view the videos below:
+
+* [Xiegu-Fest and Working USA on 1 Watt](https://www.youtube.com/watch?v=iizjUnknKbU)
+* [Top band in the dark](https://www.youtube.com/watch?v=p4xrpUkOefg)
 
 Until fairly recently, I would take my shack Icom IC-7100 out and about with me, keeping it in a briefcase that I modified for purpose. However I wasn't particularly comfortable with this setup, so with some Christmas money was able to buy a wee Xiegu G106 QRP radio. This radio, which provides between 5-8W of CW, SSB or AM, is compact enough to fit into a small satchel, along with a battery, AMU, key and roll of wire for an antenna.
 
