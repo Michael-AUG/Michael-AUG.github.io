@@ -20,7 +20,7 @@ if (hrs < 12)
        greet = 'Good evening or feasgar math';
 
     document.getElementById('lblGreetings').innerHTML =
-        '<b>' + greet + '</b> and welcome to the website of Michael Topple, GM5AUG!';
+        '<b>' + greet + '</b>, and welcome to the website of Michael Topple, GM5AUG!';
 </script> 
 </html>
 
