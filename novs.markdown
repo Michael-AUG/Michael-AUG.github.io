@@ -21,7 +21,8 @@ I have made use all of the above types of NoVs. A few of the variations from gro
 - Again as [2Q0GUI](https://www.qrz.com/db/2q0gui) to mark the period of National Mourning following the death of Her Majesty the Queen - 14 September to 19 September 2022
 - [GB5AAW - Marking Autism Awareness Week](https://www.qrz.com/db/gb5aaw) - from 25th March to 2nd April 2023
 - [GR5AUG - Marking the Coronation of Their Majesties King Charles III and Queen Camilla](https://www.qrz.com/db/gr5aug) - from 01 May to 30 June 2023
-- [GB5VIZ - marking Churches and Chapels On The Air Day](https://www.qrz.com/db/gb5viz) - 09 September 2023
+- [GB5VIZ - Marking Churches and Chapels On The Air Day](https://www.qrz.com/db/gb5viz) - 09 September 2023
+- [GB2LO - Marking the founding of the British Broadcasting Company in 1922](https://www.qrz.com/db/gb2lo) - from 16th September to 30th November 2023
 
 I also hold the following 'group 3' NoVs:
 
