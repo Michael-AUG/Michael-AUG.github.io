@@ -75,6 +75,8 @@ countup(2023,03,20)
 
 ![Ham Alert](https://hamalert.org/myspot?c=GM5AUG&h=f28667128cef90b4&a=24)
 
+<a rel="me" href="https://mastodon.radio/@gm5aug">Find me on Mastodon</a>
+
 **GM5AUG/G5AUG's RBN statistics**
 
 ![RBN Stats](https://rbn.telegraphy.de/activity/image/GM5AUG+G5AUG)
