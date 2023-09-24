@@ -24,6 +24,10 @@ I have made use all of the above types of NoVs. A few of the variations from gro
 - [GB5VIZ - Marking Churches and Chapels On The Air Day](https://www.qrz.com/db/gb5viz) - 09 September 2023
 - [GB2LO - Marking the founding of the British Broadcasting Company in 1922](https://www.qrz.com/db/gb2lo) - from 16th September to 30th November 2023
 
+In March and April 2023 I operated GB5AAW in Autism Awareness Week. James Gallo (KB2FMH) described Autism Awareness Week as "the biggest special event in Ham Radio history" - and it was an honour to be a part of it. It was through this special event that I met my dear friend, Colin GM4JPZ.
+
+![Autism Awareness Week Certificate](/images/aaw_cert.png)
+
 I also hold the following 'group 3' NoVs:
 
 | Frequency Allocation | NoV Issued | NoV Expiry |
