@@ -21,12 +21,11 @@
 title: GM5AUG - Michael Topple
 email: gm5aug@topple.scot
 description: >- # this means to ignore newlines until "baseurl:"
-  The website of Michael Topple GM5AUG, located in IO75US.
+  The website of Michael Topple GM5AUG, located in IO75US. Tha beagan Gàidhlig agam.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username:
 github_username:  Michael-AUG
-mastodon_username: gm5aug@mastodon.radio
 
 # Build settings
 theme: minima
