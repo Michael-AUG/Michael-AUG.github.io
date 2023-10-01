@@ -9,7 +9,7 @@ While most of my operating takes place at home (see my Shack page), I do enjoy t
 * [Xiegu-Fest and Working USA on 1 Watt](https://www.youtube.com/watch?v=iizjUnknKbU)
 * [Top band in the dark](https://www.youtube.com/watch?v=p4xrpUkOefg)
 
-Until fairly recently, I would take my shack Icom IC-7100 out and about with me, keeping it in a briefcase that I modified for purpose. However I wasn't particularly comfortable with this setup, so with some Christmas money was able to buy a wee Xiegu G106 QRP radio. This radio, which provides between 5-8W of CW, SSB or AM, is compact enough to fit into a small satchel, along with a battery, AMU, key and roll of wire for an antenna.
+Until fairly recently, I would take my shack Icom IC-7100 out and about with me, keeping it in a briefcase that I modified for purpose. However I wasn't particularly comfortable with this setup, so with some Christmas money was able to buy a wee Xiegu G106 QRP radio. This radio, which provides between 5-8W of CW, SSB or AM, is compact enough to fit into a small satchel, along with a battery, AMU, key and roll of wire for an antenna. Later on came a Xiegu G90, which has all of the best features of the G106, but includes an ATU and can provide 20W. I now use the G90 and have given the G106 to a friend.
 
 By way of a demonstration, below are recordings taken from various WebSDRs, showing how well a low power transmission can be heard around the world.
 
@@ -62,6 +62,9 @@ GM5AUG/QRP received by the Hack Green WebSDR (approx. 260m away) using 1W TX pow
 
 ![The Xiegu G106 radio](/images/4ee77-xiegu-g106-hf-transceiver-3.jpeg)
 *My Xiegu G106 QRP radio set, as mentioned above*
+
+![The Xiegu G90](/images/g90.jpg)
+*And the Xiegu G90, replacement of the G106*
 
 ![M6EIO/P](/images/03815-m6eio-portable.jpg)
 *A young Michael (M6EIO/P) on Mersea Island with Kevan 2E0WMG*
