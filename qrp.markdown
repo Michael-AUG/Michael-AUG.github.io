@@ -77,10 +77,15 @@ GM5AUG/QRP received by the Hack Green WebSDR (approx. 260m away) using 1W TX pow
 
 ## VHF and UHF Operation
 
-![Kenwood Mobile Rig](images/kenwood.jpeg)
-*Stock image of a Kenwood TM-D710*
+![Tait VHF rig](images/tait.jpg)
+*Tait TM8110 VHF rig*
 
-When /Mobile in the car, I use a **Kenwood TM-D710**, a V/UHF Dual Bander which gives 50W output on both 2m and 70cm. With it I use a 5/8λ whip attached to a Mag-Mount.
+When /Mobile in the car, I use a **Tait TM8110**, a VHF transceiver which gives 25W output across 9 channels on 2m. I have programmed its channels with my most frequently needed frequencies. With it I use a 5/8λ whip attached to a Mag-Mount.
+
+In time, I intend to take the Tait out of the car and replace it with either my Kenwood TM-D710 or Yaesu FT-2800M transceivers, using the Tait as a packet station in the home. This is a little way off, though!
+
+![Kenwood TM-D710](images/kenwood.jpeg)
+*The Kenwood transceiver I plan to use while /M when I put the Tait into use as a Packet station*
 
 ![Baofeng UV-5R](images/baofeng.jpg)
 <br>*Stock image of a Baofeng UV-5R*
