@@ -32,7 +32,7 @@ I also hold the following 'group 3' NoVs:
 
 | Frequency Allocation | NoV Issued | NoV Expiry |
 | :------------------: | :--------: | :--------: |
-| 146MHz to 147MHz | 27 March 2023 | 31 October 2023 |
+| 146MHz to 147MHz | 06 October 2023 | 31 October 2024 |
 | 2300MHz to 2302MHz | 27 March 2023 | 27 March 2026 |
 | 275GHz and above | 27 March 2023 | 27 March 2026 |
 
