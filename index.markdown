@@ -20,7 +20,7 @@ if (hrs < 12)
        greet = 'Good evening, or feasgar math';
 
     document.getElementById('lblGreetings').innerHTML =
-        '<b>' + greet + '</b>, and welcome to the website of Michael Topple, GM5AUG!';
+        '<b>' + greet + '</b>, and welcome to the website of Michael Topple, GM5 AUG!';
 </script> 
 </html>
 
@@ -43,7 +43,7 @@ var todaystring=montharray[todaym]+" "+todayd+", "+todayy
 var paststring=montharray[m-1]+" "+d+", "+yr
 var difference=(Math.round((Date.parse(todaystring)-Date.parse(paststring))/(24*60*60*1000))*1)
 difference+=" days"
-document.write("It\'s been "+difference+" since the I was first licensed as M6EIO")
+document.write("It\'s been "+difference+" since the I was first licensed as M6 EIO")
 }
 //enter the count up date using the format year/month/day
 countup(2012,11,07)
@@ -64,7 +64,7 @@ var todaystring=montharray[todaym]+" "+todayd+", "+todayy
 var paststring=montharray[m-1]+" "+d+", "+yr
 var difference=(Math.round((Date.parse(todaystring)-Date.parse(paststring))/(24*60*60*1000))*1)
 difference+=" days"
-document.write("It\'s been "+difference+" since the I was licensed as GM5AUG")
+document.write("It\'s been "+difference+" since the I was licensed as GM5 AUG")
 }
 //enter the count up date using the format year/month/day
 countup(2023,03,20)
@@ -77,7 +77,7 @@ countup(2023,03,20)
 
 <a rel="me" href="https://mastodon.radio/@gm5aug">Find me on Mastodon</a>
 
-**GM5AUG/G5AUG's RBN statistics**
+**GM5 AUG/G5 AUG's RBN statistics**
 
 ![RBN Stats](https://rbn.telegraphy.de/activity/image/GM5AUG+G5AUG)
 

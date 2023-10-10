@@ -4,7 +4,7 @@ title: QRP and Portable
 permalink: /qrp/
 ---
 
-While most of my operating takes place at home (see my Shack page), I do enjoy taking my QRP radio out portable. There are a variety of locations that I've used over the years, whether on my own or with other amateurs. Two relatively recent examples of these were with Kevan (2E0WMG), who made videos of our adventures. You can view the videos below:
+While most of my operating takes place at home (see my Shack page), I do enjoy taking my QRP radio out portable. There are a variety of locations that I've used over the years, whether on my own or with other amateurs. Two relatively recent examples of these were with Kevan (2E0 WMG), who made videos of our adventures. You can view the videos below:
 
 * [Xiegu-Fest and Working USA on 1 Watt](https://www.youtube.com/watch?v=iizjUnknKbU)
 * [Top band in the dark](https://www.youtube.com/watch?v=p4xrpUkOefg)
@@ -20,7 +20,7 @@ controls
                 Download audio
             </a>
     </audio>
-2M0GUI/QRP received by the Hack Green WebSDR (approx. 260m away) using 1W TX power - 7014kHz 09/Oct/2022
+2M0 GUI/QRP received by the Hack Green WebSDR (approx. 260m away) using 1W TX power - 7014kHz 09/Oct/2022
 
 <audio 
 controls
@@ -29,7 +29,7 @@ controls
                 Download audio
             </a>
     </audio>
-2M0GUI/QRP received by the PH4RTM WebSDR (approx. 523m away) using 5W TX power - 7014kHz 09/Oct/2022 
+2M0 GUI/QRP received by the PH4RTM WebSDR (approx. 523m away) using 5W TX power - 7014kHz 09/Oct/2022 
  
 <audio 
 controls
@@ -38,7 +38,7 @@ controls
                 Download audio
             </a>
     </audio>
-2M0GUI/QRP received by the K3FEF WebSDR (approx. 3,224m away) using 3W TX power - 18074kHz 11/Oct/2022 
+2M0 GUI/QRP received by the K3FEF WebSDR (approx. 3,224m away) using 3W TX power - 18074kHz 11/Oct/2022 
 
 <audio 
 controls
@@ -47,7 +47,7 @@ controls
                 Download audio
             </a>
     </audio>
-GM5AUG/QRP received by the Hack Green WebSDR (approx. 260m away) using 1W TX power - 5260kHz 10/Apr/2023 
+GM5 AUG/QRP received by the Hack Green WebSDR (approx. 260m away) using 1W TX power - 5260kHz 10/Apr/2023 
 
 <audio 
 controls
@@ -56,7 +56,7 @@ controls
                 Download audio
             </a>
     </audio>
-GM5AUG/QRP received by the Hack Green WebSDR (approx. 260m away) using 1W TX power from his Heathkit HW-8 (see the [Shack](https://gm5aug.topple.scot/shack) page) - 3507kHz 22/May/2023 
+GM5 AUG/QRP received by the Hack Green WebSDR (approx. 260m away) using 1W TX power from his Heathkit HW-8 (see the [Shack](https://gm5aug.topple.scot/shack) page) - 3507kHz 22/May/2023 
 
 ## HF Operation
 
@@ -67,15 +67,15 @@ GM5AUG/QRP received by the Hack Green WebSDR (approx. 260m away) using 1W TX pow
 *And the Xiegu G90, replacement of the G106*
 
 ![M6EIO/P](/images/03815-m6eio-portable.jpg)
-*A young Michael (M6EIO/P) on Mersea Island with Kevan 2E0WMG*
+*A young Michael (M6EIO/P) on Mersea Island with Kevan 2E0 WMG*
 
-![GM5AUG/QRP](/images/fe7c9-2a41b66a-5ebf-40c1-a19c-588d36987499.jpeg)
-*A somewhat older Michael (GM5AUG/QRP) in the same spot with Andy G6IGU*
+![GM5 AUG/QRP](/images/fe7c9-2a41b66a-5ebf-40c1-a19c-588d36987499.jpeg)
+*A somewhat older Michael (GM5 AUG/QRP) in the same spot with Andy G6IGU*
 
-![GM5AUG/QRP](/images/d3abe-322847684_1261893281138594_578327562309739796_n.jpg)
+![GM5 AUG/QRP](/images/d3abe-322847684_1261893281138594_578327562309739796_n.jpg)
 */QRP in sunny Troon*
 
-![GM5AUG/QRP](/images/676da-323527926_857464428807131_387242739454321519_n.jpg)
+![GM5 AUG/QRP](/images/676da-323527926_857464428807131_387242739454321519_n.jpg)
 */QRP antennas at Troon - a 40m whip on the car, and a 20m dipole* 
 
 ## VHF and UHF Operation
@@ -102,7 +102,7 @@ I also use this vintage 2m handheld transceiver - a **Kenpro KT-22** - from 1990
 
 ![SOTA Operation](images/sota.jpg)
 
-A little while ago, Colin (GM4JPZ) kindly gave me his old 2m SOTABeam, and this has given me many hours of pleasure as well. Photograph above shows me operating atop Corse Hill (GM/SS-236). I take my Kenpro (above) on these trips, and it is amazing how far 1.5W will get when a) it is directed and b) you have height on your side! The below map illustrates this - each dot on the map shows a station I worked from the hilltop!
+A little while ago, Colin (GM4 JPZ) kindly gave me his old 2m SOTABeam, and this has given me many hours of pleasure as well. Photograph above shows me operating atop Corse Hill (GM/SS-236). I take my Kenpro (above) on these trips, and it is amazing how far 1.5W will get when a) it is directed and b) you have height on your side! The below map illustrates this - each dot on the map shows a station I worked from the hilltop!
 
 ![SOTA Map](images/sotamap.jpg)
 

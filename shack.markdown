@@ -9,7 +9,7 @@ permalink: /shack/
 
 As mentioned elsewhere, my first radio was an Icom IC-706 Mk1, borrowed from the Colchester Club upon passing my Foundation exam. This led me to use Icom equipment, something I still do today.
 
-~~My main radio in the shack is an Icom IC-7100, this giving me 100w output across the HF bands, 50w on 2m and 35w on 70cms.~~ **My Icom is currently in for repair, so I am using a Kenwood TS-2000, on loan from Colin GM4JPZ. I am very grateful for this loan, which is allowing me to stay on air.**  I have made an End Fed Long Wire antenna (with a 9:1 UnUn) which tunes, with relative ease, across from 160m to 6m. For VHF I use a metal 'Slim Jim' antenna. My QTH being high above the city of Glasgow gives me good coverage on 2m, allowing me to be well heard for my GB2RS and GB2CW broadcasts, and for running the Glasgow University Wireless Society Nets. Aside from these, I don't often use VHF, normally using HF, and CW at that. Also seen in this picture, just nestled in the backgrond, is the little black box which contains my Raspberry Pi. I use the Pi to take VFO information from the radio and upload it to CloudLog, allowing me to log all of my contacts. CloudLog then automatically synchronizes with eQSL, LOTW and QRZ.com.
+~~My main radio in the shack is an Icom IC-7100, this giving me 100w output across the HF bands, 50w on 2m and 35w on 70cms.~~ **My Icom is currently in for repair, so I am using a Kenwood TS-2000, on loan from Colin GM4 JPZ. I am very grateful for this loan, which is allowing me to stay on air.**  I have made an End Fed Long Wire antenna (with a 9:1 UnUn) which tunes, with relative ease, across from 160m to 6m. For VHF I use a metal 'Slim Jim' antenna. My QTH being high above the city of Glasgow gives me good coverage on 2m, allowing me to be well heard for my GB2RS and GB2CW broadcasts, and for running the Glasgow University Wireless Society Nets. Aside from these, I don't often use VHF, normally using HF, and CW at that. Also seen in this picture, just nestled in the backgrond, is the little black box which contains my Raspberry Pi. I use the Pi to take VFO information from the radio and upload it to CloudLog, allowing me to log all of my contacts. CloudLog then automatically synchronizes with eQSL, LOTW and QRZ.com.
 
 ![Heathkit HW-8](images/Heathkit.jpg)
 <br>*The Heathkit HW-8*
@@ -21,7 +21,7 @@ A new addition to my radio shack is this 1978 Heathkit HW-8 QRP transceiver. The
 
 I've found that, as I've only got a limited station, CW offers my best chance of making interesting QSOs with assorted DX. While I've got nothing against those who like/love them, I've never got in to FT8, FT4, JS8Call and the like - but I still get a thrill of a CW contact!
 
-My key, an MFJ-564 Iambic paddle, once belonged to S/K Gavin Nesbitt (MM1BXF) who died tragically young. While I didn't know him intimately, he and I used to chat via text/phonecall quite frequently, and he was very encouraging towards me getting my Full licence.
+My key, an MFJ-564 Iambic paddle, once belonged to S/K Gavin Nesbitt (MM1 BXF) who died tragically young. While I didn't know him intimately, he and I used to chat via text/phonecall quite frequently, and he was very encouraging towards me getting my Full licence.
 
 ![Straight Key](images/f2da6-key.jpg)
 *My straight Morse key*
@@ -29,7 +29,7 @@ My key, an MFJ-564 Iambic paddle, once belonged to S/K Gavin Nesbitt (MM1BXF) wh
 This is my straight key. Although I make most of my CW contacts using my MFJ paddle (above), I keep this key plugged into the back of the rig in case I want to make a straight key contact. Reasons for this include coming across a SKCC member and wanting to exchange SKCC details. Also there are some times where I just fancy a straight key contact!
 
 ![Meter](images/IMG_0520.jpg)
-*My power and SWR meter - on loan from G0DVJ!*
+*My power and SWR meter - on loan from G0 DVJ!*
 
 Using an EFLW has many advantages, such as ease and practicality (one wire can cover the whole HF part of the spectrum), but also risks introducing a few problems - these include getting unwanted RF in the shack, and relying on an Antenna Matching Unit to 'fool' the rig into putting out full TX power. My tuner, pictured above (below Jonathan G0DVJ's loaned power and SWR meter) is an LDG IT-100 Autotuner and works extremely well and making my antenna and rig 'play nicely' together. Having the meter in-line also allows me to keep an eye on my transmit power levels and SWR levels. Often the meter is the first sign of an issue, so is well worth having. In time I hope to be able to run more power into a better antenna, but for now the two factors precluding that are 1) money! and 2) living in rented accomodation.
 

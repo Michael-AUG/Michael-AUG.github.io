@@ -11,7 +11,7 @@ Given my interest in CW, a number of people have asked some advice for learning 
 
 At the end of the day, however, everyone learns differently so don't take what I say as gospel...
 
-1) Any practise is better than no practise. For a while when I was learning, I would have twice weekly skeds with G0DVJ on 2m. We'd chat on SSB and then he'd send on CW. For some weeks in the year he'd be on holiday and there would be no CW. So I didn't do any practising. When he got back, I'd have regressed in my abilities. I was learning c12yrs ago and Morse apps weren't quite as prevalent as they are now. So even if you can't practise in perfect conditions, anything is better than nothing.
+1) Any practise is better than no practise. For a while when I was learning, I would have twice weekly skeds with G0 DVJ on 2m. We'd chat on SSB and then he'd send on CW. For some weeks in the year he'd be on holiday and there would be no CW. So I didn't do any practising. When he got back, I'd have regressed in my abilities. I was learning c12yrs ago and Morse apps weren't quite as prevalent as they are now. So even if you can't practise in perfect conditions, anything is better than nothing.
 
 2) Introduce numbers and grammar early on. It is tempting, and seems logical, to learn all the letters first, then numbers, etc, but I've found (while teaching others) that doing it this way makes the numbers seem much harder and 'scary' than they really are. It is best to get them in your head at the same time as the letters. After all, if you know all your letters but no numbers, you won't be able to make many contacts!
 
@@ -31,4 +31,4 @@ At the end of the day, however, everyone learns differently so don't take what I
 
 As I say, some may disagree with this advice. If so, why not contact me? After all, I want this to be good, solid advice. Email address below.
 
-G0DVJ, who taught me CW, has written a far more comprehensive guide which can be found [on the CRA webpage](http://www.g3co.uk/Downloads.html) - I really recommend you take a look.
+G0 DVJ, who taught me CW, has written a far more comprehensive guide which can be found [on the CRA webpage](http://www.g3co.uk/Downloads.html) - I really recommend you take a look.

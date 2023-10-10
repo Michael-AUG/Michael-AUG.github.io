@@ -19,10 +19,10 @@ I have made use all of the above types of NoVs. A few of the variations from gro
 - [MO6EIO - Marking the London 2012 Olympic Games](https://www.qrz.com/db/mo6eio) - from 21 July to 09 September 2012
 - [2Q0GUI - Marking the Queen's Platinum Jubilee](https://www.qrz.com/db/2q0gui) - from 01 June to 30 June 2022
 - Again as [2Q0GUI](https://www.qrz.com/db/2q0gui) to mark the period of National Mourning following the death of Her Majesty the Queen - 14 September to 19 September 2022
-- [GB5AAW - Marking Autism Awareness Week](https://www.qrz.com/db/gb5aaw) - from 25th March to 2nd April 2023
-- [GR5AUG - Marking the Coronation of Their Majesties King Charles III and Queen Camilla](https://www.qrz.com/db/gr5aug) - from 01 May to 30 June 2023
-- [GB5VIZ - Marking Churches and Chapels On The Air Day](https://www.qrz.com/db/gb5viz) - 09 September 2023
-- [GB2LO - Marking the founding of the British Broadcasting Company in 1922](https://www.qrz.com/db/gb2lo) - from 16th September to 30th November 2023
+- [GB5 AAW - Marking Autism Awareness Week](https://www.qrz.com/db/gb5aaw) - from 25th March to 2nd April 2023
+- [GR5 AUG - Marking the Coronation of Their Majesties King Charles III and Queen Camilla](https://www.qrz.com/db/gr5aug) - from 01 May to 30 June 2023
+- [GB5 VIZ - Marking Churches and Chapels On The Air Day](https://www.qrz.com/db/gb5viz) - 09 September 2023
+- [GB 2LO - Marking the founding of the British Broadcasting Company in 1922](https://www.qrz.com/db/gb2lo) - from 16th September to 30th November 2023
 
 In March and April 2023 I operated GB5AAW in Autism Awareness Week. The event organiser, James Gallo (KB2FMH), described Autism Awareness Week as "the biggest special event in Ham Radio history" - and it was an honour to be a part of it. It was through this special event that I met my dear friend, Colin GM4JPZ.
 
@@ -41,10 +41,10 @@ I also hold the following 'group 3' NoVs:
 
 | Callsign | Belonging to | Date(s) |
 | :-----: | :-----: | :-----: |
-| MS0WSG | [Glasgow University Wireless Society](https://www.mm0wsg.radio) | Ongoing |
-| GS4AGU | ditto. | ditto. |
-| GS3CO | [Colchester Radio Amateurs](http://www.g3co.uk/) | 1st to 31st April 2023 |
-| GX3CO/P | ditto. (operated from Packing Shed Island) | 21st to 22nd July 2023 |
+| MS0 WSG | [Glasgow University Wireless Society](https://www.mm0wsg.radio) | Ongoing |
+| GS4 AGU | ditto. | ditto. |
+| GS 3CO | [Colchester Radio Amateurs](http://www.g3co.uk/) | 1st to 31st April 2023 |
+| GX 3CO/P | ditto. (operated from Packing Shed Island) | 21st to 22nd July 2023 |
 
 **Some example NoVs**
 
@@ -52,4 +52,4 @@ I also hold the following 'group 3' NoVs:
 
 and
 
-![GB5AAW](images/gb5aawnew.png)
+![GB5 AAW](images/gb5aawnew.png)

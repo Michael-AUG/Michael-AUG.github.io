@@ -12,7 +12,7 @@ I find more and more that this love of the past is leaking through into amateur 
 
 Combining my love of radio and antiques, I enjoy SWL-ing on this Eddystone Kilodyne Four receiver, dating from 1934. Designed for the shortwave/ham bands, I have subsequently wound coils for both MW and LW broadcast radio, allowing me to tune in to BBC Radio 4 amongst other stations.
 
-The radio was built by my dear (now S/K) friend Ron, G4AUG, and his father, back in the mid-1930s, and still works perfectly today.
+The radio was built by my dear (now S/K) friend Ron, G4 AUG, and his father, back in the mid-1930s, and still works perfectly today.
 
 Further information about the radio can be found [here](https://worldradiohistory.com/hd2/IDX-UK/Company/Eddystone-IDX/IDX/ESWM-No-1-1932-OCR-Page-0004.pdf) and [here](http://eddystoneusergroup.org.uk/Manuals/kilodyne%204%20manual.pdf). You can listen to recordings made from the radio by clicking the links below:
 
@@ -25,10 +25,10 @@ Further information about the radio can be found [here](https://worldradiohistor
 
 ![Avo3](images/ab9b1-avocase.jpg)
 
-Loving vintage or antique equipment, my meter of choice is this [Model 40 Universal Avometer](http://www.richardsradios.co.uk/avo40mk2.html), dating from September 1953, which belonged to G4AUG (whose radio is seen above). The instrument has proved itself on many occasions and, unlike various other multimeters which have been and gone, is reliable and accurate. With the meter came the original manual and case, the latter still bearing Ron’s initials and callsign. I have found a very similar (albeit not identical) copy of the user’s manual and uploaded it to the File Store (see the 'About' tab).
+Loving vintage or antique equipment, my meter of choice is this [Model 40 Universal Avometer](http://www.richardsradios.co.uk/avo40mk2.html), dating from September 1953, which belonged to G4 AUG (whose radio is seen above). The instrument has proved itself on many occasions and, unlike various other multimeters which have been and gone, is reliable and accurate. With the meter came the original manual and case, the latter still bearing Ron’s initials and callsign. I have found a very similar (albeit not identical) copy of the user’s manual and uploaded it to the File Store (see the 'About' tab).
 
 ![Crystal Set](images/crystalSet.jpeg)
-*G4AUG's crystal radio*
+*G4 AUG's crystal radio*
 
 Also from Ron came this lovely crystal radio set with the matching headphones. I don't know very much about the radio save that (apparently) it dates from the 1920s. I think that the little jumper inbetween the two tuning knobs changed the band from MW to LW, although this is more suspicion than certainty. Although I don't use it on a regular basis, I have had success with using this little set to tune in to local and national AM broadcast stations in the MW portion of the broadcast band. I find it amazing how it is possible to demodulate and listen to radio signals just using the inbuilt electrical strength of the radio signal - no batteries or AC power supplies needed. 
 
