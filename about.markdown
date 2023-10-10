@@ -17,6 +17,8 @@ Nearly ten years after gaining my Intermediate licence, on 13th March 2023, I (f
 
 In my spare time, I enjoy researching vintage or antique Amateur Radio ephemera, a selection of which may be viewed in the [File Store](https://www.qsl.net/2m0gui/FileStore). I often update this so do check back every now and then. Those interested in Amateur Radio history may find [this link](http://www.g4kfk.co.uk/) of interest, while [this link](https://www.bbc.co.uk/sounds/play/p0b0yl8p) goes to a fascinating BBC documentary about the early days of broadcasting and [this link](https://www.youtube.com/watch?v=kcZ7kmdh6LU&list=WL&index=9) to a BBC Radio 4 documentary about amateur radio. 
 
+I'm licensed as [**VP8EBL**](https://www.qrz.com/db/vp8ebl) on the Falkland Islands and intend to operate there on my future visit.
+
 I continue to learn, get pleasure, have fun, and relax in the Amateur Radio hobby, enjoying working primarily on HF, but also occasionally on VHF and UHF. Ordinarily I use CW but also sometimes enjoy voice modes. Maybe we’ll work each other some day, if not already. My QRZ page is not especially interesting as it just links back here, but I do keep this page largely up to date. 
 
 Please QSL either directly or via the Bureau. QSL cards happily sent on request.
