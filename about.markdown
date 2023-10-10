@@ -19,6 +19,8 @@ In my spare time, I enjoy researching vintage or antique Amateur Radio ephemera,
 
 I'm licensed as [**VP8 EBL**](https://www.qrz.com/db/vp8ebl) on the Falkland Islands and intend to operate there on my future visit.
 
+![VP8 EBL licence](images/VP8EBL.jpg)
+
 I continue to learn, get pleasure, have fun, and relax in the Amateur Radio hobby, enjoying working primarily on HF, but also occasionally on VHF and UHF. Ordinarily I use CW but also sometimes enjoy voice modes. Maybe we’ll work each other some day, if not already. My QRZ page is not especially interesting as it just links back here, but I do keep this page largely up to date. 
 
 Please QSL either directly or via the Bureau. QSL cards happily sent on request.
