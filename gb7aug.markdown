@@ -25,3 +25,7 @@ Although Packet Networking has seemed to fade into obscurity over the last few d
 My node is a work in progress, and every day I am learning more about how AX.25 Packet Networking works. It is also stretching and strengthening my Linux command line skills, which can only be a good thing too.
 
 If you are in the area, please do connect to GB7AUG on 2m; or if you connect to a node near to you, have a look and see if there is already a connection in place!
+
+Predicted coverage map:
+
+![Coverage map](images/canvas.png)
