@@ -4,7 +4,7 @@ title: GB7 AUG Packet Node
 permalink: /packet/
 ---
 
-![Technical details of Packet Node](images/packetnode.png)
+![Technical details of Packet Node](images/packetrules.png)
 *Technical details of GB7 AUG Packet Node*
 
 I run a AX.25 Packet Node and Mailbox, callsign GB7 AUG, serving the Glasgow and East Renfrewshire areas. This node operates on 2m (144.9375MHz), and is linked to other nodes using AXIP technology.
