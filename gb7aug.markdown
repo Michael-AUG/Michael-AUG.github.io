@@ -11,9 +11,13 @@ I run a AX.25 Packet Node and Mailbox (at 1200bd), callsign GB7 AUG, serving the
 
 For a TNC, I use a NinoTNC, produced by Nino KK4 HEJ. I bought the kit to make the NinoTNC as part of a group buy for interested members of OARC - the Online Amateur Radio Community.
 
+![NinoTNC](images/tncsmall.jpg)
+
 The software that controls the TNC is LinBPQ, a Linux version of the famous software developed by G8BPQ.
 
 In terms of radio hardware, the transceiver is a Tait TM8110. My antenna is a 2m Slim Jim at rooftop level, with excellent coverage over Glasgow and the Clyde, as well as into Renfrewshire and parts of Lanarkshire.
+
+![Tait TM-8110](images/taitsmall.jpg)
 
 **OARC Packet Network**
 
