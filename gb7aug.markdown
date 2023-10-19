@@ -7,7 +7,7 @@ permalink: /packet/
 ![Technical details of Packet Node](images/packetrules.png)
 *Technical details of GB7 AUG Packet Node*
 
-I run a AX.25 Packet Node and Mailbox, callsign GB7 AUG, serving the Glasgow and East Renfrewshire areas. This node operates on 2m (144.9375MHz), and is linked to other nodes using AXIP technology.
+I run a AX.25 Packet Node and Mailbox (at 1200bd), callsign GB7 AUG, serving the Glasgow and East Renfrewshire areas. This node operates on 2m (144.9375MHz), and is linked to other nodes using AXIP technology. In time I am considering moving this over to 4800bd and the IL2P protocol.
 
 For a TNC, I use a NinoTNC, produced by Nino KK4 HEJ. I bought the kit to make the NinoTNC as part of a group buy for interested members of OARC - the Online Amateur Radio Community.
 
