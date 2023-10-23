@@ -1,6 +1,6 @@
 ---
 layout: page
-title: NOVs
+title: NoVs
 permalink: /novs/
 ---
 
@@ -10,7 +10,8 @@ Four categories of NoVs:
 
 1. Regional Secondary Location NoVs
 2. Special Event Station NoVs (only available to Full licensees)
-3. Variation of a licence to operate on different frequencies (only available to Full licensees)
+3. Variation of a licence to operate on different frequencies (only available to Full licensees).
+  3a. Here there are also NoVs for running nodes, repeaters, [packet mailboxes](https://gm5aug.topple.scot/packet), etc
 4. I have a NoV to allow me to broadcast the GB2RS News - (only available to registered GB2RS Newsreaders)
 
 I have made use all of the above types of NoVs. A few of the variations from groups 1 and 2 are listed below, with links to QRZ pages.
@@ -23,6 +24,7 @@ I have made use all of the above types of NoVs. A few of the variations from gro
 - [GR5 AUG - Marking the Coronation of Their Majesties King Charles III and Queen Camilla](https://www.qrz.com/db/gr5aug) - from 01 May to 30 June 2023
 - [GB5 VIZ - Marking Churches and Chapels On The Air Day](https://www.qrz.com/db/gb5viz) - 09 September 2023
 - [GB 2LO - Marking the founding of the British Broadcasting Company in 1922](https://www.qrz.com/db/gb2lo) - from 16th September to 30th November 2023
+- [GB7 AUG - a 2m AX.25 (1200bd) packet node and mailbox](https://gm5aug.topple.scot/packet) - from 17th October 2023 onwards
 
 In March and April 2023 I operated GB5AAW in Autism Awareness Week. The event organiser, James Gallo (KB2FMH), described Autism Awareness Week as "the biggest special event in Ham Radio history" - and it was an honour to be a part of it. It was through this special event that I met my dear friend, Colin GM4JPZ.
 
