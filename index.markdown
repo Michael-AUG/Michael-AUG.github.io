@@ -2,7 +2,7 @@
 layout: page
 ---
 
-![MT_mugshot](images/MT_RSGB.jpg)
+![forthcoming DXpedition](images/Topple_Pugh_expedition.jpg)
 
 <html> 
     <label id="lblGreetings"></label>
