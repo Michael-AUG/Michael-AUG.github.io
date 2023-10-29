@@ -33,3 +33,8 @@ If you are in the area, please do connect to GB7AUG on 2m; or if you connect to 
 Predicted coverage map:
 
 ![Coverage map](images/canvas.png)
+
+GM Packet Network map:
+(red markers are established packet nodes, orange markers are potential node sites, and pink markers are locations that have worked in to GB7 AUG)
+
+<div><iframe src="https://maps.co/embed/653002c9632df062456086icu44e09e" width="800" height="600" frameborder="0" allowfullscreen></iframe><div><a href="https://maps.co">Powered by MAPS</a></div></div>
