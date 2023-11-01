@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Ron G4 AUG
+title: Ron G4AUG
 permalink: /ron/
 ---
 
@@ -20,7 +20,7 @@ Some eighteen months later, Ron took his Morse Test (then a compulsory element o
 
 ![Morse Test Pass Slip - 1971](images/g4aug/MorseTest1971.jpg)
 
-Shortly after taking his Morse Exam (according to the datemark, on the same day - did he take his exam at the Ministry of Posts and Telecommunications Office in London?), Ron was sent this **letter confirming his Class A Amateur Radio licence**. He had been given the callsign G4 AUG - this call he would use for the next four and a half decades.
+Shortly after taking his Morse Exam (according to the datemark, on the same day - did he take his exam at the Ministry of Posts and Telecommunications Office in London?), Ron was sent this **letter confirming his Class A Amateur Radio licence**. He had been given the callsign G4AUG - this call he would use for the next four and a half decades.
 
 ![Licence Confirmation Letter - 1971](images/g4aug/LicenceConfirmation1971.jpg)
 
@@ -41,7 +41,7 @@ Ron's self-designed QSL card didn't change in the forty or so years he was licen
 
 ![Ron's QSL card from 2013](images/g4aug/Ron.jpeg)
 
-Ron became a silent key in 2017. It is my privilege to follow his G4 AUG call as GM5 AUG. As you'll see from my 'Vintage Equipment' page, much of his equipment is still used as well. He was a credit to the hobby, and I was privileged to be his friend.
+Ron became a silent key in 2017. It is my privilege to follow his G4AUG call as GM5AUG. As you'll see from my 'Vintage Equipment' page, much of his equipment is still used as well. He was a credit to the hobby, and I was privileged to be his friend.
 
 ![Ron and Eileen](images/g4aug/RonAndEileen.jpg)
 <br>*Ron, with his XYL Eileen*

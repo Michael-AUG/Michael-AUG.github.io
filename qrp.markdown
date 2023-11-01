@@ -20,7 +20,7 @@ controls
                 Download audio
             </a>
     </audio>
-2M0 GUI/QRP received by the Hack Green WebSDR (approx. 260m away) using 1W TX power - 7014kHz 09/Oct/2022
+2M0GUI/QRP received by the Hack Green WebSDR (approx. 260m away) using 1W TX power - 7014kHz 09/Oct/2022
 
 <audio 
 controls
@@ -29,7 +29,7 @@ controls
                 Download audio
             </a>
     </audio>
-2M0 GUI/QRP received by the PH4RTM WebSDR (approx. 523m away) using 5W TX power - 7014kHz 09/Oct/2022 
+2M0GUI/QRP received by the PH4RTM WebSDR (approx. 523m away) using 5W TX power - 7014kHz 09/Oct/2022 
  
 <audio 
 controls
@@ -38,7 +38,7 @@ controls
                 Download audio
             </a>
     </audio>
-2M0 GUI/QRP received by the K3FEF WebSDR (approx. 3,224m away) using 3W TX power - 18074kHz 11/Oct/2022 
+2M0GUI/QRP received by the K3FEF WebSDR (approx. 3,224m away) using 3W TX power - 18074kHz 11/Oct/2022 
 
 <audio 
 controls
@@ -47,7 +47,7 @@ controls
                 Download audio
             </a>
     </audio>
-GM5 AUG/QRP received by the Hack Green WebSDR (approx. 260m away) using 1W TX power - 5260kHz 10/Apr/2023 
+GM5AUG/QRP received by the Hack Green WebSDR (approx. 260m away) using 1W TX power - 5260kHz 10/Apr/2023 
 
 <audio 
 controls
@@ -56,7 +56,7 @@ controls
                 Download audio
             </a>
     </audio>
-GM5 AUG/QRP received by the Hack Green WebSDR (approx. 260m away) using 1W TX power from his Heathkit HW-8 (see the [Shack](https://gm5aug.topple.scot/shack) page) - 3507kHz 22/May/2023 
+GM5AUG/QRP received by the Hack Green WebSDR (approx. 260m away) using 1W TX power from his Heathkit HW-8 (see the [Shack](https://gm5aug.topple.scot/shack) page) - 3507kHz 22/May/2023 
 
 ## HF Operation
 
@@ -69,13 +69,13 @@ GM5 AUG/QRP received by the Hack Green WebSDR (approx. 260m away) using 1W TX po
 ![M6EIO/P](/images/03815-m6eio-portable.jpg)
 *A young Michael (M6EIO/P) on Mersea Island with Kevan 2E0 WMG*
 
-![GM5 AUG/QRP](/images/fe7c9-2a41b66a-5ebf-40c1-a19c-588d36987499.jpeg)
-*A somewhat older Michael (GM5 AUG/QRP) in the same spot with Andy G6IGU*
+![GM5AUG/QRP](/images/fe7c9-2a41b66a-5ebf-40c1-a19c-588d36987499.jpeg)
+*A somewhat older Michael (GM5AUG/QRP) in the same spot with Andy G6IGU*
 
-![GM5 AUG/QRP](/images/d3abe-322847684_1261893281138594_578327562309739796_n.jpg)
+![GM5AUG/QRP](/images/d3abe-322847684_1261893281138594_578327562309739796_n.jpg)
 */QRP in sunny Troon*
 
-![GM5 AUG/QRP](/images/676da-323527926_857464428807131_387242739454321519_n.jpg)
+![GM5AUG/QRP](/images/676da-323527926_857464428807131_387242739454321519_n.jpg)
 */QRP antennas at Troon - a 40m whip on the car, and a 20m dipole* 
 
 ## VHF and UHF Operation
@@ -85,10 +85,10 @@ GM5 AUG/QRP received by the Hack Green WebSDR (approx. 260m away) using 1W TX po
 
 When /Mobile in the car, I use a **Tait TM8110**, a VHF transceiver which gives 25W output across 9 channels on 2m. I have programmed its channels with my most frequently needed frequencies. With it I use a 5/8λ whip attached to a Mag-Mount.
 
-In time, I intend to take the Tait out of the car and replace it with either my Kenwood TM-D710 or Yaesu FT-2800M transceivers, using the Tait as a packet station in the home. This is a little way off, though!
-
 ![Kenwood TM-D710](images/kenwood.jpeg)
 *The Kenwood transceiver I plan to use while /M when I put the Tait into use as a Packet station*
+
+I use my Kenwood TM-D710 as a portable packet station, coupled with an old laptop running Linux.
 
 ![Baofeng UV-5R](images/baofeng.jpg)
 <br>*Stock image of a Baofeng UV-5R*
