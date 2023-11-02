@@ -7,17 +7,21 @@ permalink: /packet/
 ![Technical details of Packet Node](images/packetrules.png)
 *Technical details of GB7AUG Packet Node*
 
-I run a AX.25 Packet Node and Mailbox (at 1200bd), callsign GB7AUG, serving the Glasgow and East Renfrewshire areas. This node operates on 2m (144.9375MHz), and is linked to a couple of  other nodes using AXIP technology. In time I am considering moving this over to 4800bd and the IL2P protocol. I currently handle mail for regions 72 (Central), 73 (Dumfries and Galloway) and 78 (Strathclyde). I am in the process of applying for a NoV to add a 40m port to my node, allowing me to carry mail up and down to/from England.
+I run a AX.25 Packet Node and Mailbox (at 1200bd), callsign GB7AUG, serving the Glasgow and East Renfrewshire areas. This node operates on 2m (144.9375MHz), and is linked to a couple of  other nodes using AXIP technology. In time I am considering moving this over to 4800bd and the IL2P protocol. I currently handle mail for regions 72 (Central), 73 (Dumfries and Galloway) and 78 (Strathclyde). I also have a NoV for a 40m port on the node, allowing me to carry mail up and down to/from England. This uses 300bd I2LP and sits at a dial freq of 7.045.75MHz.
 
-For a TNC, I use a NinoTNC, produced by Nino KK4HEJ. I bought the kit to make the NinoTNC as part of a group buy for interested members of OARC - the Online Amateur Radio Community.
+For my 2m TNC, I use a NinoTNC, produced by Nino KK4HEJ. I bought the kit to make the NinoTNC as part of a group buy for interested members of OARC - the Online Amateur Radio Community.
 
 ![NinoTNC](images/tncsmall.jpg)
 
-The software that controls the TNC is LinBPQ, a Linux version of the famous software developed by G8 BPQ.
+As a TNC for 40m, I use QtSoundModem, a variant of SoundModem, which integrates nicely into the node software.
 
-In terms of radio hardware, the transceiver is a Tait TM8110. My antenna is a 2m Slim Jim at rooftop level, with excellent coverage over Glasgow and the Clyde, as well as into Renfrewshire, Ayrshire  and parts of Lanarkshire.
+The software that controls the TNC is LinBPQ, a Linux version of the famous bpq32 software developed by G8BPQ.
+
+In terms of radio hardware, the 2m transceiver is a Tait TM8110. My antenna is a 2m Slim Jim at rooftop level, with excellent coverage over Glasgow and the Clyde, as well as into Renfrewshire, Ayrshire  and parts of Lanarkshire.
 
 ![Tait TM-8110](images/taitsmall.jpg)
+
+The current HF transceiver is an Icom IC7300, but I hope to replace this with an Icom IC7100 when it is returned from repair.
 
 **OARC Packet Network**
 
@@ -28,7 +32,7 @@ Although Packet Networking has seemed to fade into obscurity over the last few d
 
 My node is a work in progress, and every day I am learning more about how AX.25 Packet Networking works. It is also stretching and strengthening my Linux command line skills, which can only be a good thing too.
 
-If you are in the area, please do connect to GB7AUG on 2m; or if you connect to a node near to you, have a look and see if there is already a connection in place!
+If you are in the area, please do connect to GB7AUG on 2m; or if you connect to a node near to you, have a look and see if there is already a connection to mine in place!
 
 Predicted coverage map:
 
