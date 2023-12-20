@@ -1,8 +1,18 @@
 ---
 layout: page
-title: GB7AUG Packet Node
+title: Packet Radio
 permalink: /packet/
 ---
+
+**I currently hold four NoVs to my licence for packet nodes.**
+* GB7AUG (Newton Mearns) for 2m
+* GB7AUG (ditto.) for 40m
+* MB7NKL (Kilsyth) for 2m
+* MB7NDH (Dalgety Bay) for 2m
+
+The GB7AUG node setup is thoroughly explained below. The Kilsyth (MB7NKL) node has a near identical setup to the 2m GB7AUG node (with the substitution of the 2m slim Jim for a Diamond X-50N). The Dalgety Bay (MB7NDH) node is also running from a Tait and NinoTNC, but uses a Diamond X-2000 antenna. This node is situated at the QTH of MM3NDH. Together MB7NKL and MB7NDH link the cities of Glasgow and Edinburgh by packet radio - meaning I have achieved my aim of linking these two cities!
+
+**GB7AUG**
 
 ![Technical details of Packet Node](images/packetrules.png)
 *Technical details of GB7AUG Packet Node*
@@ -33,6 +43,8 @@ Although Packet Networking has seemed to fade into obscurity over the last few d
 My node is a work in progress, and every day I am learning more about how AX.25 Packet Networking works. It is also stretching and strengthening my Linux command line skills, which can only be a good thing too.
 
 If you are in the area, please do connect to GB7AUG on 2m; or if you connect to a node near to you, have a look and see if there is already a connection to mine in place!
+
+**Maps**
 
 Predicted coverage map:
 
