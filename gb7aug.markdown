@@ -46,9 +46,13 @@ If you are in the area, please do connect to GB7AUG on 2m; or if you connect to 
 
 **Maps**
 
-Predicted coverage map:
+Predicted coverage map for GB7AUG:
 
 ![Coverage map](images/canvas.png)
+
+Predicted coverage map for MB7NKL:
+
+![Coverage map](images/mb7nklCoverage.png)
 
 OARC National Packet Network map:
 (This map shows the nodes known to the OARC National Packet Network, and shows the links between nodes in GM)
