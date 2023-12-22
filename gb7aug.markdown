@@ -17,15 +17,15 @@ The GB7AUG node setup is thoroughly explained below. The Kilsyth (MB7NKL) node h
 ![Technical details of Packet Node](images/packetrules.png)
 *Technical details of GB7AUG Packet Node*
 
-I run a AX.25 Packet Node and Mailbox (at 1200bd), callsign GB7AUG, serving the Glasgow and East Renfrewshire areas. This node operates on 2m (144.9375MHz), and is linked to a couple of  other nodes using AXIP technology. In time I am considering moving this over to 4800bd and the IL2P protocol. I currently handle mail for regions 72 (Central), 73 (Dumfries and Galloway) and 78 (Strathclyde). I also have a NoV for a 40m port on the node, allowing me to carry mail up and down to/from England. This uses 300bd I2LP and sits at a dial freq of 7.045.75MHz.
+I run a AX.25 Packet Node and Mailbox (at 1200bd), callsign GB7AUG, serving the Glasgow and East Renfrewshire areas. This node operates on 2m (144.9375MHz). I currently handle mail for regions 72 (Central), 73 (Dumfries and Galloway) and 78 (Strathclyde). I also have a NoV for a 40m port on the node, allowing me to carry mail up and down to/from England. This uses 300bd I2LP and sits at a dial freq of 7.045.75MHz. Alongside the BBS, and connectivity to other nodes, GB7AUG also hosts the GB2RS News in a downloadable format, and various other applications for the connecting amateur to use.
 
 For my 2m TNC, I use a NinoTNC, produced by Nino KK4HEJ. I bought the kit to make the NinoTNC as part of a group buy for interested members of OARC - the Online Amateur Radio Community.
 
 ![NinoTNC](images/tncsmall.jpg)
 
-As a TNC for 40m, I use QtSoundModem, a variant of SoundModem, which integrates nicely into the node software.
+As a TNC for 40m, I use QtSoundModem, a variant of SoundModem, which integrates nicely into the node software. I am looking to move this over to another NinoTNC in due course, as the QtSoundModem software is a little bit buggy and requires frequent restarts.
 
-The software that controls the TNC is LinBPQ, a Linux version of the famous bpq32 software developed by G8BPQ.
+The software that runs the nodes is linbpq, a Linux version of the famous bpq32 software developed by G8BPQ.
 
 In terms of radio hardware, the 2m transceiver is a Tait TM8110. My antenna is a 2m Slim Jim at rooftop level, with excellent coverage over Glasgow and the Clyde, as well as into Renfrewshire, Ayrshire  and parts of Lanarkshire.
 
