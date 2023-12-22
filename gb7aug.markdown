@@ -54,6 +54,10 @@ Predicted coverage map for MB7NKL:
 
 ![Coverage map](images/mb7nklCoverage.png)
 
+Predicted coverage map for MB7NDH:
+
+![Coverage map](images/mb7ndhCoverage.png)
+
 OARC National Packet Network map:
 (This map shows the nodes known to the OARC National Packet Network, and shows the links between nodes in GM)
 
