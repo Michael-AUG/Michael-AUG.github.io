@@ -58,6 +58,9 @@ controls
     </audio>
 GM5AUG/QRP received by the Hack Green WebSDR (approx. 260m away) using 1W TX power from his Heathkit HW-8 (see the [Shack](https://gm5aug.topple.scot/shack) page) - 3507kHz 22/May/2023 
 
+<audio controls src ="/files/hw8.mp3"> <a href="/files/hw8.mp3"> Download audio </a> </audio>
+GM5AUG as received by [MM3NDH's webSDR](https://websdr.scotlandchat.co.uk/) from his Heathkit HW-8 - 7016.2kHz 27/Dec/2023
+
 ## HF Operation
 
 ![The Xiegu G106 radio](/images/4ee77-xiegu-g106-hf-transceiver-3.jpeg)
