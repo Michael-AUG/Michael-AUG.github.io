@@ -58,6 +58,9 @@ Predicted coverage map for MB7NDH:
 
 ![Coverage map](images/mb7ndhCoverage.png)
 
+A map showing the links between Central Belt nodes (as of 8th Jan 2024)
+![map](files/gmpnmap.png)
+
 OARC National Packet Network map:
 (This map shows the nodes known to the OARC National Packet Network, and shows the links between nodes in GM)
 
