@@ -9,40 +9,37 @@ One of the best things about Amateur Radio is the opportunity to join various cl
 I am part of a number of clubs, and I have listed these below, with links to their websites and Club callsigns where known.
 
 ![GUWS](images/GUWS_Logo.png)
-<br> I am a founding member of the [Glasgow University Wireless Society](https://www.mm0wsg.radio) and am pleased to currently serve as its Chairman. I am also holder of one of the Club callsigns [G#4 AGU](https://www.qrz.com/db/gs4agu) on the Society's behalf. **GS4 AGU/MS0 WSG**
+<br> I am a founding member of the [Glasgow University Wireless Society](https://www.mm0wsg.radio) and am pleased to currently serve as its Chairman. I am also holder of one of the Club callsigns [G#4AGU](https://www.qrz.com/db/gs4agu) on the Society's behalf. **GM4AGU/MS0WSG**
 
 ![GMDX](images/gmdxLogo.png)
-<br>[GMDX](https://www.gmdx.org.uk/) - I am pleased to serve as Secretary of the GMDX Group. **GS8 VL**
+<br>[GMDX](https://www.gmdx.org.uk/) - I am pleased to serve as Secretary of the GMDX Group. **GS8VL**
 
 ![OARC](images/oarcboth-3.png)
-<br>[OARC](https://www.oarc.uk/) - I am part of the Online Amateur Radio Community, a Community Representative and serve on the Training Team and the Media/Editorial Team. In addition, along with Colin GM4 JPZ, I am Net Controller for the weekly [Slow to Medium Speed Morse Net](https://morse.oarc.uk). **M(S)0 OUK**
+<br>[OARC](https://www.oarc.uk/) - I am part of the Online Amateur Radio Community, a Community Representative and serve on the Training Team and the Media/Editorial Team. **M(S)0OUK**
 
 ![WACRAL](images/8adf3-lapel_pin.png)
-<br>[WACRAL](https://http://www.wacral.org/) - the World Association of Christian Radio Amateurs and Listeners - No. 1730. **M1 CRA**
+<br>[WACRAL](https://http://www.wacral.org/) - the World Association of Christian Radio Amateurs and Listeners - No. 1730. **M1CRA**
 
 ![CWOps](images/cwops.png)
-<br>[CWOps](https://cwops.org/) - CWOps - No. 3366. **GM2 CWO**
+<br>[CWOps](https://cwops.org/) - CWOps - No. 3366. **GM2CWO**
 
 ![RSGB](images/a8a88-rsgb.png)
 <br>[RSGB](https://www.rsgb.org) - the Radio Society of Great Britain - No. 211957
 
 ![CRA](images/b44ff-cra.jpg)
-<br>[CRA](http://www.g3co.uk/) - the Colchester Radio Amateurs. **G3 CO/MX1 COL**
+<br>[CRA](http://www.g3co.uk/) - the Colchester Radio Amateurs. **G3CO/MX1COL**
 
 ![HARIG](images/4386a-harig.gif)
-<br>[HARIG](http://harig.org.uk/) - the Harwich Amateur Radio Interest Group. **G0 RGH**
+<br>[HARIG](http://harig.org.uk/) - the Harwich Amateur Radio Interest Group. **G0RGH**
 
 ![ECWARC](images/25947-ecwarc.jpg)
-<br>[ECWARC](https://essexcw.uk/) - Essex CW Amateur Radio Club - No. 254. **G1 FCW**
+<br>[ECWARC](https://essexcw.uk/) - Essex CW Amateur Radio Club - No. 254. **G1FCW**
 
 ![G-QRP](images/e9f19-gqrp.jpeg)
-<br>[G-QRP](http://www.gqrp.com/index.htm) - the Q-QRP Low Power Club - No. 17163. **G5 LOW**
+<br>[G-QRP](http://www.gqrp.com/index.htm) - the Q-QRP Low Power Club - No. 17163. **G5LOW**
 
 ![FISTS](images/7fbce-fists.jpg)
 <br>[FISTS](http://fists.co.uk/) - FISTS CW Club - No. 21280. 
 
-![WoSARS](images/55890-wosars.jpg)
-<br>[WoSARS](https://wosars.club/) - the West of Scotland Amateur Radio Society. **GS4 AGG/GM7 WOS**
-
 ![SKCC](images/81376-skcc-logo-1.gif)
-<br>[SKCC](http://www.skccgroup.com/) - the Straight Key Century Club, for whom I am pleased to hold the UK Club Call [G#5 KCC](https://www.qrz.com/db/gs5kcc) - No. 27020. **G#5 KCC**
+<br>[SKCC](http://www.skccgroup.com/) - the Straight Key Century Club, for whom I am pleased to hold the UK Club Call [G#5KCC](https://www.qrz.com/db/gs5kcc) - No. 27020. **G#5KCC**

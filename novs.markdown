@@ -4,6 +4,8 @@ title: NoVs
 permalink: /novs/
 ---
 
+# Please note this page is out of date, following Ofcom's update to the Regulations. I'll update it in due course.
+
 Since first being licenced in 2012, I have operated under a number of NoVs. NoVs are 'Notices of Variation', allowing the operator to vary his callsign or the terms of his licence. For ease I have split NoVs into four main categories, but these are my designations only and not official. For more information, [please click here](https://rsgb.org/main/operating/licensing-novs-visitors/online-nov-application/) to visit the RSGB NoV page.
 
 Four categories of NoVs:

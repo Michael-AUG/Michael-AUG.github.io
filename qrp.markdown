@@ -70,7 +70,7 @@ GM5AUG as received by [MM3NDH's webSDR](https://websdr.scotlandchat.co.uk/) from
 *And the Xiegu G90, replacement of the G106*
 
 ![M6EIO/P](/images/03815-m6eio-portable.jpg)
-*A young Michael (M6EIO/P) on Mersea Island with Kevan 2E0 WMG*
+*A young Michael (M6EIO/P) on Mersea Island with Kevan 2E0WMG*
 
 ![GM5AUG/QRP](/images/fe7c9-2a41b66a-5ebf-40c1-a19c-588d36987499.jpeg)
 *A somewhat older Michael (GM5AUG/QRP) in the same spot with Andy G6IGU*
@@ -83,15 +83,7 @@ GM5AUG as received by [MM3NDH's webSDR](https://websdr.scotlandchat.co.uk/) from
 
 ## VHF and UHF Operation
 
-![Tait VHF rig](images/tait.jpg)
-*Tait TM8110 VHF rig*
-
-When /Mobile in the car, I use a **Tait TM8110**, a VHF transceiver which gives 25W output across 9 channels on 2m. I have programmed its channels with my most frequently needed frequencies. With it I use a 5/8λ whip attached to a Mag-Mount.
-
-![Kenwood TM-D710](images/kenwood.jpeg)
-*The Kenwood transceiver I plan to use while /M when I put the Tait into use as a Packet station*
-
-I use my Kenwood TM-D710 as a portable packet station, coupled with an old laptop running Linux.
+I use a cheap and cheerful Chinese 2m/70cm mobile transceiver while /M in the car. Picture to follow.
 
 ![Baofeng UV-5R](images/baofeng.jpg)
 <br>*Stock image of a Baofeng UV-5R*
@@ -105,7 +97,7 @@ I also use this vintage 2m handheld transceiver - a **Kenpro KT-22** - from 1990
 
 ![SOTA Operation](images/sota.jpg)
 
-A little while ago, Colin (GM4 JPZ) kindly gave me his old 2m SOTABeam, and this has given me many hours of pleasure as well. Photograph above shows me operating atop Corse Hill (GM/SS-236). I take my Kenpro (above) on these trips, and it is amazing how far 1.5W will get when a) it is directed and b) you have height on your side! The below map illustrates this - each dot on the map shows a station I worked from the hilltop!
+A little while ago, a former friend kindly gave me his old 2m SOTABeam, and this has given me many hours of pleasure as well. Photograph above shows me operating atop Corse Hill (GM/SS-236). I take my Kenpro (above) on these trips, and it is amazing how far 1.5W will get when a) it is directed and b) you have height on your side! The below map illustrates this - each dot on the map shows a station I worked from the hilltop!
 
 ![SOTA Map](images/sotamap.jpg)
 
