@@ -15,7 +15,7 @@ Studies, exams, work and life intervened and, although I remained interested in 
 
 Nearly ten years after gaining my Intermediate licence, on 13th March 2023, I (finally!) sat and passed my Full exam, taking the callsign GM5AUG a couple of days later. I was pleased to be able to choose the three letters at the end of my call, and chose them in memory of Ron G4AUG, now S/K, who features throughout this website. You can read more about how I came in to Amateur Radio in the [My Journey](https://gm5aug.topple.scot/journey/) page. Around this time I officially surrendered my Foundation and Intermediate callsigns, from then on operating solely as GM5AUG.
 
-In my spare time, I enjoy researching vintage or antique Amateur Radio ephemera, a selection of which may be viewed in the [File Store](https://www.qsl.net/2m0gui/FileStore). I often update this so do check back every now and then. Those interested in Amateur Radio history may find [this link](http://www.g4kfk.co.uk/) of interest, while [this link](https://www.bbc.co.uk/sounds/play/p0b0yl8p) goes to a fascinating BBC documentary about the early days of broadcasting and [this link](https://www.youtube.com/watch?v=kcZ7kmdh6LU&list=WL&index=9) to a BBC Radio 4 documentary about amateur radio. When sailing I also serve as 'Radio Officer', having taken my VHF SRC exam, and holding a Licence to Operate.
+In my spare time, I enjoy researching vintage or antique Amateur Radio ephemera, a selection of which may be viewed in the [File Store](https://www.qsl.net/2m0gui/FileStore). I often update this so do check back every now and then. Those interested in Amateur Radio history may find [this link](http://www.g4kfk.co.uk/) of interest, while [this link](https://www.bbc.co.uk/sounds/play/p0b0yl8p) goes to a fascinating BBC documentary about the early days of broadcasting and [this link](https://www.youtube.com/watch?v=kcZ7kmdh6LU&list=WL&index=9) to a BBC Radio 4 documentary about amateur radio.
 
 I'm licensed as [**VP8EBL**](https://www.qrz.com/db/vp8ebl) on the Falkland Islands and intend to operate there on my future visit.
 
@@ -25,5 +25,6 @@ I continue to learn, get pleasure, have fun, and relax in the Amateur Radio hobb
 
 Please QSL either directly or via the Bureau. QSL cards happily sent on request.
 
-![Sailing](images/sailing.jpg)
-*Michael sailing, one of his other hobbies, which he doesn't get chance to do nearly enough*
+![Sailing](images/boat.jpg)
+*Michael sailing, one of his other hobbies, which he doesn't get chance to do nearly enough.*
+When sailing I also serve as 'Radio Officer', having taken my VHF SRC Exam, and holding a Licence to Operate.
