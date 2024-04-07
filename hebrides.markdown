@@ -3,7 +3,7 @@ layout: page
 title: Hebrides DXpedition 2024
 permalink: /hebrides/
 ---
-[QSL card](/images/qsl.jpg)
+![QSL card](/images/qsl.jpg)
 
 Between Friday 26th April to Friday 4th May, along with my friend Kevan 2M0WMG I will be active from the Outer Hebrides. IOTA Ref EU-010. We will mainly be active from the islands of Barra, Eriskay, South Uist, Benbecula and North Uist as well as a few smaller tidal islands along the way if the WX is kind. 
 
