@@ -13,6 +13,4 @@ We will also be operating from the Parks On The Air park of South Uist Machair S
 
 We will also be on 2m and 70cms FM and SSB looking for SOTA stations, 4m FM and the FM LEO Satellites. I will mainly be using CW and Kevan will be mainly on HF SSB although may dabble in a bit of PSK. 
 
-See our Twitter feed below for up to date information:
-
-<a class="twitter-timeline" href="https://twitter.com/HebridesDx2024?ref_src=twsrc%5Etfw">Tweets by HebridesDx2024</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+See our Twitter feed for up to date information: [@HebridesDX2024](https://twitter.com/HebridesDx2024)
