@@ -71,6 +71,10 @@ countup(2023,03,20)
 </script>
 </html>
 <br>
+
+GM5AUG in QSO with W1WCC in Cape Cod (the ex shore-ship station that played a part in the rescue of the Titanic)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4rirqpUdPI8?si=c59xL9fi0Fdt30tx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 **Have I been on air in the last 24hrs??**
 
 ![Ham Alert](https://hamalert.org/myspot?c=GM5AUG&h=f28667128cef90b4&a=24)
