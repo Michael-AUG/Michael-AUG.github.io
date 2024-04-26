@@ -81,7 +81,7 @@ GM5AUG in QSO with W1WCC in Cape Cod (the ex shore-ship station that played a pa
 
 <a rel="me" href="https://mastodon.radio/@gm5aug">Find me on Mastodon</a>
 
-**GM5AUG/G5 AUG's RBN statistics**
+**GM5AUG/G5AUG's RBN statistics**
 
 ![RBN Stats](https://rbn.telegraphy.de/activity/image/GM5AUG+G5AUG)
 
