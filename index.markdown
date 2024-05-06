@@ -2,7 +2,7 @@
 layout: page
 ---
 
-![forthcoming DXpedition](images/Topple_Pugh_expedition.jpg)
+**For information about our Hebridean adventure, please click [see the dedicated page](https://gm5aug.topple.scot/hebrides).
 
 <html> 
     <label id="lblGreetings"></label>
