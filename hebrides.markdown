@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Hebrides DXpedition 2024
+title: Hebrides 2024
 permalink: /hebrides/
 ---
 ![QSL card](/images/qsl.jpg)
