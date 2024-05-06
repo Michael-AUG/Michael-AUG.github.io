@@ -4,7 +4,7 @@ title: Packet Radio
 permalink: /packet/
 ---
 
-**I currently hold four FACs under my licence for packet nodes.**
+**I currently hold five FACs under my licence for packet nodes.**
 * GB7AUG (Newton Mearns) for 2m
 * GB7AUG (ditto.) for 4m - not yet in operation
 * GB7AUG (ditto.) for 40m
