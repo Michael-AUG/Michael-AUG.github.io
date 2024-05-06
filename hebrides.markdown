@@ -5,7 +5,7 @@ permalink: /hebrides/
 ---
 ![QSL card](/images/qsl.jpg)
 
-Between Friday 26th April to Friday 4th May, along with my friend Kevan 2M0WMG I was active from the Outer Hebrides, IOTA Ref EU-010. We were mainly active from the islands of Barra, Eriskay, South Uist, Benbecula and North Uist as well as a few smaller tidal islands along the way if the WX is kind. 
+Between Friday 26th April and Saturday 4th May 2024, along with my friend Kevan 2M0WMG, I was active from the Outer Hebrides (aka the Western Isles), IOTA Ref EU-010. We were mainly active from the islands of Barra, Eriskay, South Uist, Benbecula and North Uist as well as a few smaller tidal islands along the way. 
 
 On Sunday 28th April we operated from the island of Fiaray, also spelt Fiaraidh, from the WAB square NF61 which had never previously been activated. On the afternoon of Monday 29th April we operated from the (very wet) NF80 square on Eriskay which had also never been activated. 
 
