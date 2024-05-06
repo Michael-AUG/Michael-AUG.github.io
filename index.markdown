@@ -2,7 +2,7 @@
 layout: page
 ---
 
-**For information about our Hebridean adventure, please click [see the dedicated page](https://gm5aug.topple.scot/hebrides).
+**For information about our Hebridean adventure, please click [see the dedicated page](https://gm5aug.topple.scot/hebrides).**
 
 <html> 
     <label id="lblGreetings"></label>
