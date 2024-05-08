@@ -25,5 +25,9 @@ Kevan has also made a series of videos covering our time away. These can be watc
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/tYUepx2cxys?si=3JRNtIGkk5VYZLgS" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5ak3atnom8?si=5aGBcFS_Mi5DW2dt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fAsTevWGnWY?si=-LbDnQFzqxLm6dQP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 Below you will see a CloudLog map of my contacts over the week.
 ![QSO map](/images/hebridesMap.png)
