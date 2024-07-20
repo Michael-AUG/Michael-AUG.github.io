@@ -2,6 +2,7 @@
 layout: page
 ---
 
+**For information about my forthcoming DXpedition to Flannnan Isles, [please see our QRZ page](https://www.qrz.com/db/mm0uki).**
 **For information about our Hebridean adventure, please click [see the dedicated page](https://gm5aug.topple.scot/hebrides).**
 
 <html> 
