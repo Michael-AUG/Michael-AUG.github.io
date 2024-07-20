@@ -57,8 +57,3 @@ Predicted coverage map for MB7NKL:
 
 A map showing the links between Central Belt nodes (as of 8th Jan 2024)
 ![map](files/gmpnmap.png)
-
-OARC National Packet Network map:
-(This map shows the nodes known to the OARC National Packet Network, and shows the links between nodes in GM)
-
-<iframe src="https://www.google.com/maps/d/embed?mid=1tAry6ehlUqty-trp_viwN1Q9hXBGVE0&ehbc=2E312F" width="640" height="480"></iframe>
