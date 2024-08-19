@@ -29,6 +29,15 @@ if (hrs < 12)
 Please use the links above to navigate around my website. Thank you for visiting.
 
 <br>
+<p>
+Where is Michael?
+ <script type="text/javascript">
+ he_track = "GM5AUG-5"; // track this callsign
+ </script>
+ <script type="text/javascript" src="http://aprs.he.fi/js/embed.js">
+ </script>
+ </p>
+
 <html>
 <script>
 var montharray=new Array("Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec")
