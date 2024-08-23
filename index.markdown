@@ -2,9 +2,6 @@
 layout: page
 ---
 
-**For information about my forthcoming DXpedition to Flannnan Isles, [please see our QRZ page](https://www.qrz.com/db/mm0uki).**
-**For information about our Hebridean adventure, please click [see the dedicated page](https://gm5aug.topple.scot/hebrides).**
-
 <html> 
     <label id="lblGreetings"></label>
 
@@ -29,15 +26,6 @@ if (hrs < 12)
 Please use the links above to navigate around my website. Thank you for visiting.
 
 <br>
-<p>
-Where is Michael?
- <script type="text/javascript">
- he_track = "GM5AUG-5"; // track this callsign
- </script>
- <script type="text/javascript" src="http://aprs.he.fi/js/embed.js">
- </script>
- </p>
-
 <html>
 <script>
 var montharray=new Array("Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec")
@@ -81,9 +69,6 @@ countup(2023,03,20)
 </script>
 </html>
 <br>
-
-GM5AUG in QSO with W1WCC in Cape Cod (the ex shore-ship station that played a part in the rescue of the Titanic)
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4rirqpUdPI8?si=c59xL9fi0Fdt30tx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 **Have I been on air in the last 24hrs??**
 
