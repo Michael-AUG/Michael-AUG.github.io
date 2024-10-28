@@ -22,7 +22,7 @@ As below, I have three main shack antennas, covering all of HF, plus 4/2/70. In 
 * 6m/2m/70cm - Diamond V-2000
 * 4m - Moonraker SQBM470
 
-![Antennas](images/circuitDiagram.png)
+![Antennas](images/shack.png)
 
 ## Other radios
 
