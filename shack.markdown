@@ -20,7 +20,7 @@ As below, I have three main shack antennas, covering all of HF, plus 4/2/70. In 
 
 * HF/6m - End Fed Long Wire with 9:1 UnUn
 * 6m/2m/70cm - Diamond V-2000
-* 4m - Moonraker SQBM470
+* 4m - Home-made dipole
 
 ![Antennas](images/shack.png)
 
