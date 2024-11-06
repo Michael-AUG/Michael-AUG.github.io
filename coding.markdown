@@ -14,10 +14,10 @@ The big project I have worked on, however, is [ToppLog](https://github.com/Micha
 See some images below:
 
 ![The code behind ToppLog](images/topplog1.png)
-*The code behind ToppLog*
+<br>*The code behind ToppLog*
 
 ![The UI of ToppLog](images/topplog2.png)
-*ToppLog's UI*
+<br>*ToppLog's UI*
 
 You can find these, and various other projects I have worked on, on [my GitHub page](https://github.com/Michael-AUG). I am grateful to various people for helping me with my projects, not limited to Mitch AB4MW, Torin MM1STK and Tom M0LTE. I am certainly still an 'amateur' coder but enjoy it when a piece of code speeds up or simplifies my life. 
 
