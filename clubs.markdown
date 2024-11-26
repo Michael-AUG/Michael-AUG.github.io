@@ -12,13 +12,16 @@ I am part of a number of clubs, and I have listed these below, with links to the
 <br> I am a founding member of the [Glasgow University Wireless Society](https://www.mm0wsg.radio) and am pleased to currently serve as its Chairman. I am also holder of one of the Club callsigns [G#4AGU](https://www.qrz.com/db/gs4agu) on the Society's behalf. **GM4AGU/MS0WSG**
 
 ![GMDX](images/gmdxLogo.png)
-<br>[GMDX](https://www.gmdx.org.uk/) - I am pleased to serve as Secretary of the GMDX Group. **GS8VL**
+<br>[GMDX](https://www.gmdx.org.uk/) - I served for a while as Secretary to GMDX. **GS8VL**
 
 ![OARC](images/oarcboth-3.png)
-<br>[OARC](https://www.oarc.uk/) - I am part of the Online Amateur Radio Community, a Community Representative and serve on the Training Team and the Media/Editorial Team. **M(S)0OUK**
+<br>[OARC](https://www.oarc.uk/) - I am part of the Online Amateur Radio Community, and spent a while as a Community Representative. **M(S)0OUK**
 
 ![WACRAL](images/8adf3-lapel_pin.png)
 <br>[WACRAL](https://http://www.wacral.org/) - the World Association of Christian Radio Amateurs and Listeners - No. 1730. **M1CRA**
+
+![QO-100 DX Club](images/qo100.png)
+<br>[QO-100 DX Club](https://qo100dx.club) - I'm a relative newcomer to QO-100 operation, but enjoy using the satellite when visiting GM7GDE.
 
 ![CWOps](images/cwops.png)
 <br>[CWOps](https://cwops.org/) - CWOps - No. 3366. **GM2CWO**
@@ -34,12 +37,3 @@ I am part of a number of clubs, and I have listed these below, with links to the
 
 ![ECWARC](images/25947-ecwarc.jpg)
 <br>[ECWARC](https://essexcw.uk/) - Essex CW Amateur Radio Club - No. 254. **G1FCW**
-
-![G-QRP](images/e9f19-gqrp.jpeg)
-<br>[G-QRP](http://www.gqrp.com/index.htm) - the Q-QRP Low Power Club - No. 17163. **G5LOW**
-
-![FISTS](images/7fbce-fists.jpg)
-<br>[FISTS](http://fists.co.uk/) - FISTS CW Club - No. 21280. 
-
-![SKCC](images/81376-skcc-logo-1.gif)
-<br>[SKCC](http://www.skccgroup.com/) - the Straight Key Century Club, for whom I am pleased to hold the UK Club Call [G#5KCC](https://www.qrz.com/db/gs5kcc) - No. 27020. **G#5KCC**
