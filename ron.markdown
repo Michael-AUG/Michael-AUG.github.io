@@ -3,7 +3,20 @@ layout: page
 title: Ron G4AUG
 permalink: /ron/
 ---
+<script>
+function redirectToPage() {
+  const currentDate = new Date();
+    const dayOfWeek = currentDate.getDay(); // 0 = Sunday, 1 = Monday, ..., 6 = Saturday
 
+      if (dayOfWeek === 0) {
+          // Redirect to the desired page on Sundays
+              window.location.replace('/sabbath'); // Replace '/path/to/sunday-page' with the actual URL of your Sunday page
+                }
+                }
+
+                // Call the function when the page loads
+                window.onload = redirectToPage;
+                </script>
 A few people have said how nice it was that, in former versions of this webpage, I mentioned Ron and the influence he had on my Amateur Radio journey. Given that I have quite a few of his amateur radio effects, I thought I would share some information about him on here.
 
 Ron was born in London in 1930 and, after a short time working as a Warehouseman, performed his National Service in the RAF, operating RADAR systems. On being demobbed he had a number of jobs, before finally becoming a Fireman in his native Loughton.

@@ -3,6 +3,20 @@ layout: page
 title: Coding
 permalink: /coding/
 ---
+<script>
+function redirectToPage() {
+  const currentDate = new Date();
+    const dayOfWeek = currentDate.getDay(); // 0 = Sunday, 1 = Monday, ..., 6 = Saturday
+
+      if (dayOfWeek === 0) {
+          // Redirect to the desired page on Sundays
+              window.location.replace('/sabbath'); // Replace '/path/to/sunday-page' with the actual URL of your Sunday page
+                }
+                }
+
+                // Call the function when the page loads
+                window.onload = redirectToPage;
+                </script>
 I studied Computer Science at College and, although it has been a number of years since I was using it regularly, I did build up a reasonable knowledge of certain programming languages. Since moving to the Linux ecosystem I have rekindled my interest in programming, writing scripts and applications to speed up or simplify certain tasks.
 
 An example of this is the F2A Morse Rigctld script I have written, which integrates the ['morse' application](https://gitlab.com/esr/morse-classic) with the rig control functions [(rigctl) of Hamlib](https://github.com/Hamlib/Hamlib). This enables me to send evenly sped Morse Code over FM for my 2m GB2CW broadcasts.

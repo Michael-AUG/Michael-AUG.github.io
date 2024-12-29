@@ -3,6 +3,20 @@ layout: page
 title: Hebrides 2024
 permalink: /hebrides/
 ---
+<script>
+function redirectToPage() {
+  const currentDate = new Date();
+    const dayOfWeek = currentDate.getDay(); // 0 = Sunday, 1 = Monday, ..., 6 = Saturday
+
+      if (dayOfWeek === 0) {
+          // Redirect to the desired page on Sundays
+              window.location.replace('/sabbath'); // Replace '/path/to/sunday-page' with the actual URL of your Sunday page
+                }
+                }
+
+                // Call the function when the page loads
+                window.onload = redirectToPage;
+                </script>
 ![QSL card](/images/qsl.jpg)
 
 Between Friday 26th April and Saturday 4th May 2024, along with my friend Kevan 2M0WMG, I was active from the Outer Hebrides (aka the Western Isles), IOTA Ref EU-010. We were mainly active from the islands of Barra, Eriskay, South Uist, Benbecula and North Uist as well as a few smaller tidal islands along the way. 

@@ -3,7 +3,20 @@ layout: page
 title: RSGB
 permalink: /rsgb/
 ---
+<script>
+function redirectToPage() {
+  const currentDate = new Date();
+    const dayOfWeek = currentDate.getDay(); // 0 = Sunday, 1 = Monday, ..., 6 = Saturday
 
+      if (dayOfWeek === 0) {
+          // Redirect to the desired page on Sundays
+              window.location.replace('/sabbath'); // Replace '/path/to/sunday-page' with the actual URL of your Sunday page
+                }
+                }
+
+                // Call the function when the page loads
+                window.onload = redirectToPage;
+                </script>
 I am pleased to be a member of the Radio Society of Great Britain and firmly believe in 'giving back' to the amateur radio hobby. For this reason I volunteer for the RSGB in a variety of ways:
 
 ![RSGB Membership cert.](images/RSGBMember.png)

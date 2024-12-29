@@ -3,7 +3,20 @@ layout: page
 title: Variations
 permalink: /variants/
 ---
+<script>
+function redirectToPage() {
+  const currentDate = new Date();
+    const dayOfWeek = currentDate.getDay(); // 0 = Sunday, 1 = Monday, ..., 6 = Saturday
 
+      if (dayOfWeek === 0) {
+          // Redirect to the desired page on Sundays
+              window.location.replace('/sabbath'); // Replace '/path/to/sunday-page' with the actual URL of your Sunday page
+                }
+                }
+
+                // Call the function when the page loads
+                window.onload = redirectToPage;
+                </script>
 Since first being licenced in 2012, I have operated under a number of callsign variants, a few of which are listed below
 
 - MQ6EIO - Marking the Queen's Diamond Jubilee - from 05 May to 10 June 2012

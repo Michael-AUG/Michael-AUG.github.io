@@ -3,7 +3,20 @@ layout: page
 title: QRP and Portable
 permalink: /qrp/
 ---
+<script>
+function redirectToPage() {
+  const currentDate = new Date();
+    const dayOfWeek = currentDate.getDay(); // 0 = Sunday, 1 = Monday, ..., 6 = Saturday
 
+      if (dayOfWeek === 0) {
+          // Redirect to the desired page on Sundays
+              window.location.replace('/sabbath'); // Replace '/path/to/sunday-page' with the actual URL of your Sunday page
+                }
+                }
+
+                // Call the function when the page loads
+                window.onload = redirectToPage;
+                </script>
 While most of my operating takes place at home (see my Shack page), I do enjoy taking my QRP radio out portable. There are a variety of locations that I've used over the years, whether on my own or with other amateurs. Two relatively recent examples of these were with Kevan (2E0WMG), who made videos of our adventures. You can view the videos below:
 
 * [Xiegu-Fest and Working USA on 1 Watt](https://www.youtube.com/watch?v=iizjUnknKbU)

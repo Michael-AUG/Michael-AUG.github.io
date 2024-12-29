@@ -3,7 +3,20 @@ layout: page
 title: Packet Radio
 permalink: /packet/
 ---
+<script>
+function redirectToPage() {
+  const currentDate = new Date();
+    const dayOfWeek = currentDate.getDay(); // 0 = Sunday, 1 = Monday, ..., 6 = Saturday
 
+      if (dayOfWeek === 0) {
+          // Redirect to the desired page on Sundays
+              window.location.replace('/sabbath'); // Replace '/path/to/sunday-page' with the actual URL of your Sunday page
+                }
+                }
+
+                // Call the function when the page loads
+                window.onload = redirectToPage;
+                </script>
 **I currently hold five FACs under my licence for packet nodes.**
 * GB7AUG (Newton Mearns) for 2m
 * GB7AUG (ditto.) for 4m - not yet in operation

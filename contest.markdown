@@ -3,7 +3,20 @@ layout: page
 title: Contesting
 permalink: /contests/
 ---
+<script>
+function redirectToPage() {
+  const currentDate = new Date();
+    const dayOfWeek = currentDate.getDay(); // 0 = Sunday, 1 = Monday, ..., 6 = Saturday
 
+      if (dayOfWeek === 0) {
+          // Redirect to the desired page on Sundays
+              window.location.replace('/sabbath'); // Replace '/path/to/sunday-page' with the actual URL of your Sunday page
+                }
+                }
+
+                // Call the function when the page loads
+                window.onload = redirectToPage;
+                </script>
 One aspect of amateur radio that I particularly enjoy is contesting. Although not a 'serious' player owing to my limited set-up, I frequently enter contests (especially CW contests) and enjoy trying to optimise both my station and my operation to get the best score possible.
 
 I was introduced to contesting by Jonathan G0DVJ, and have taken part in contests both with him and also as part of the Colchester Contest Group (VHF).

@@ -3,7 +3,20 @@ layout: page
 title: Vintage Equipment
 permalink: /equipment/
 ---
+<script>
+function redirectToPage() {
+  const currentDate = new Date();
+    const dayOfWeek = currentDate.getDay(); // 0 = Sunday, 1 = Monday, ..., 6 = Saturday
 
+      if (dayOfWeek === 0) {
+          // Redirect to the desired page on Sundays
+              window.location.replace('/sabbath'); // Replace '/path/to/sunday-page' with the actual URL of your Sunday page
+                }
+                }
+
+                // Call the function when the page loads
+                window.onload = redirectToPage;
+                </script>
 Outside Amateur Radio, I am very interested in history. I enjoy learning about the past, and collecting antiques or other artefacts.
 
 I find more and more that this love of the past is leaking through into amateur radio as well!

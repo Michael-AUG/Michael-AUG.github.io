@@ -3,6 +3,20 @@ layout: page
 title: My Amateur Radio Journey
 permalink: /journey/
 ---
+<script>
+function redirectToPage() {
+  const currentDate = new Date();
+    const dayOfWeek = currentDate.getDay(); // 0 = Sunday, 1 = Monday, ..., 6 = Saturday
+
+      if (dayOfWeek === 0) {
+          // Redirect to the desired page on Sundays
+              window.location.replace('/sabbath'); // Replace '/path/to/sunday-page' with the actual URL of your Sunday page
+                }
+                }
+
+                // Call the function when the page loads
+                window.onload = redirectToPage;
+                </script>
 ![GB3RS](images/9d257-gb3rs.jpg)
 
 ![GB3RS](images/bb2e5-gb3rs2.jpg)

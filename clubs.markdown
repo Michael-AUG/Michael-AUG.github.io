@@ -3,7 +3,20 @@ layout: page
 title: My Clubs
 permalink: /clubs/
 ---
+<script>
+function redirectToPage() {
+  const currentDate = new Date();
+    const dayOfWeek = currentDate.getDay(); // 0 = Sunday, 1 = Monday, ..., 6 = Saturday
 
+      if (dayOfWeek === 0) {
+          // Redirect to the desired page on Sundays
+              window.location.replace('/sabbath'); // Replace '/path/to/sunday-page' with the actual URL of your Sunday page
+                }
+                }
+
+                // Call the function when the page loads
+                window.onload = redirectToPage;
+                </script>
 One of the best things about Amateur Radio is the opportunity to join various clubs and societies, whether local or national, or even international.
 
 I am part of a number of clubs, and I have listed these below, with links to their websites and Club callsigns where known.
