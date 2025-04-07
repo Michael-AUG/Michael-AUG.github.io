@@ -1,6 +1,6 @@
 ---
 layout: page
-title: My Amateur Radio Journey
+title: My Journey
 permalink: /journey/
 ---
 <script>
