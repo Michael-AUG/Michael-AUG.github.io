@@ -18,7 +18,7 @@ function redirectToPage() {
                 window.onload = redirectToPage;
                 </script>
 ![The Bench](images/shackbench.jpg)
-*The operating 'bench'*
+*An earlier photo of the operating 'bench'*
 
 ## Radios
 The radios in my shack are as follow:

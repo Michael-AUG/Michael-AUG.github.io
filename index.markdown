@@ -93,10 +93,6 @@ countup(2023,03,20)
 
 ![RBN Stats](https://rbn.telegraphy.de/activity/image/GM5AUG+G5AUG)
 
-**All *bona fide* with eQSL!**
-
-![eQSL Auth](images/eQSL.png)
-
 **Current HF and VHF propogation**
 
 ![Propo](https://www.hamqsl.com/solar101vhfpic.php)
