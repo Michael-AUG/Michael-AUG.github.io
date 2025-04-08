@@ -23,26 +23,20 @@ function redirectToPage() {
 ## Radios
 The radios in my shack are as follow:
 
-* ~~My main radio in the shack is an Icom IC-7100, this giving me 100w output across the HF bands, 50w on 2m and 35w on 70cms.~~ **My Icom is currently in for repair, so I am using the GUWS' Icom IC-7300 on HF and 6m.** 
+* ~~My main radio in the shack is an Icom IC-7100, this giving me 100w output across the HF bands, 50w on 2m and 35w on 70cms.~~ **My IC-7100 is currently in for repair, so I am using the GUWS' Icom IC-7300 on HF and 6m.** 
 * My 2m radio is a Tait TM-8110
 * My 4m radio is a Tait TM-8110
 * My 70cm radio is a Motorola GM350
+* My Marine AIS decoder (161 MHz - more info on the AIS page) is a SevenStar 2rxPro
 
 ## Antennas
-As below, I have three main shack antennas, covering all of HF, plus 4/2/70. In due course I hope to add 23cms to my list of available bands.
+As shown below, I have three main shack antennas, covering all of HF, plus 4/2/70. In due course I hope to add 23cms to my list of available bands.
 
 * HF/6m - End Fed Long Wire with 9:1 UnUn
 * 6m/2m/70cm - Diamond V-2000
 * 4m - Home-made dipole
 
 ![Antennas](images/ShackDiagram.jpg)
-
-## Other radios
-
-![Heathkit HW-8](images/Heathkit.jpg)
-<br>*The Heathkit HW-8*
-
-A new addition to my radio shack is this 1978 Heathkit HW-8 QRP transceiver. These rigs have a cult following in amateur radio owing to their simplicity, popularity and price. Giving between 2.5w to 3.5w INPUT on the 80m, 40m, 20m and 15m amateur bands, this rig is a lovely example of highly technical, yet compact, 70s radio technology. My rig is a little 'QRH' (the frequency can vary!) but I am hoping to be able to remedy this (and a few other issues) before too long. I will normally sign '/QRP' when using this rig as it produces less than 5w. More information can be found at [RigPix - Heathkit HW-8](https://www.rigpix.com/heathkit/hw8.htm) or the [HW-8 Handbook](http://www.radiomanual.info/schemi/Surplus_Radioamateur/Heathkit_HW-8_handbook_2ed_2008.pdf). I've already managed to work a few stations using 'Hetty' and look forward to working others.
 
 ## Accessories
 

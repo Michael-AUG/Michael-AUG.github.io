@@ -18,7 +18,7 @@ function redirectToPage() {
                 window.onload = redirectToPage;
                 </script>
 ![Michael operating /P on Packing Shed Island](images/packingshed.jpg)
-<br>*Image of Michael operating GX 3CO/P from Packing Shed Island, Essex*
+<br>*Image of Michael operating GX3CO/P from Packing Shed Island, Essex*
 
 This site deals mainly with my amateur radio activity, but please [click here](https://www.topple.scot/) to view my Blog, or [here](https://michaelrjtopple.academia.edu/) to view my profile on Academia.
 

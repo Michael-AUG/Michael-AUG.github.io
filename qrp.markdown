@@ -41,13 +41,18 @@ It was with Kevan that I visited the Hebrides in spring 2024 for a radio adventu
 ![GM5AUG/QRP](/images/676da-323527926_857464428807131_387242739454321519_n.jpg)
 */QRP antennas at Troon - a 40m whip on the car, and a 20m dipole* 
 
+![Heathkit HW-8](images/Heathkit.jpg)
+<br>*The Heathkit HW-8*
+
+Another resident in my radio shack is this 1978 Heathkit HW-8 QRP transceiver. These rigs have a cult following in amateur radio owing to their simplicity, popularity and price. Giving between 2.5w to 3.5w INPUT on the 80m, 40m, 20m and 15m amateur bands, this rig is a lovely example of highly technical, yet compact, 70s radio technology. My rig is a little 'QRH' (the frequency can vary!) but I am hoping to be able to remedy this (and a few other issues) before too long. I will normally sign '/QRP' when using this rig as it produces less than 5w. More information can be found at [RigPix - Heathkit HW-8](https://www.rigpix.com/heathkit/hw8.htm) or the [HW-8 Handbook](http://www.radiomanual.info/schemi/Surplus_Radioamateur/Heathkit_HW-8_handbook_2ed_2008.pdf). I've already managed to work a few stations using 'Hetty' and look forward to working others.
+
 ## VHF and UHF Operation
 
 My V/UHF radios (aside from those used for packet nodes)
-* I use a cheap and cheerful Chinese 2m/70cm mobile transceiver while /M in the car. Picture to follow.
-* A Kenpro KT-22 2m FM HT
-* A couple of ubiquotous Baofeng UV-5Rs
-* A Quansheng UV-K5 with the egzumer firmware
+* A [VGC VR-N76](https://www.hamradio.co.uk/vgc-vr-n76-aprs-handheld-radio-2m-70cm) - my go-to handheld now, with a built in KISS TNC and APRS function. An excellent wee radio.
+* An older Kenpro KT-22 2m FM HT (see below)
+* A couple of ubiquotous Baofeng UV-5Rs (ideal for loaning to people)
+* A Quansheng UV-K5 with the egzumer firmware (not used so much now, but often used to listen to the marine VHF channels)
 * A Yaesu FT-290R (although this is not in GWO)
 
 ![Kenpro KT-22](images/kenpro.jpg)
@@ -64,8 +69,3 @@ A little while ago, a former friend kindly gave me his old 2m SOTABeam, and this
 See the below review from *Practical Wireless* (November 1990)
 
 ![Kenpro KT-22 Review in Practical Wireless](images/KenproPW.jpg)
-
-![Yaesu FT-290R](images/yaesu.jpg)
-*Yaesu FT-290R 2m Transceiver*
-
-My latest purchase is this vintage 2m transceiver, made by Yaesu in 1982. Producing either 2.5W or 500mW of USB/LSB/CW/FM, the rig is powered by eight C-cell batteries, or an external power supply. Neatly the rig has its own telescopic whip included, alongside the option to use an external antenna. While I have not used it in the field yet, owing to a few repairs I need to make, I look forward to doing so - particularly as this radio has a CW and SSB mode, something many portable 2m rigs do not have.

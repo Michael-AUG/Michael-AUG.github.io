@@ -42,7 +42,7 @@ I also hold the following NoVs to my licence, each of which are restricted to Fu
 **Other Club callsigns I have operated under**<br>
 *(Full licensees are allowed to operate using Club callsigns with the relevant licence holder's permission)*
 
-| Callsign | Belonging to | Date(s) |
+| Callsign | Belonging to ( - held by) | Date(s) |
 | :-----: | :-----: | :-----: |
 | MS0WSG | [Glasgow University Wireless Society](https://www.mm0wsg.radio) - MM1STK | Ongoing |
 | GS3CO | [Colchester Radio Amateurs](http://www.g3co.uk/) - G6XOU | 1st to 31st April 2023 |
