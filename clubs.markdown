@@ -28,7 +28,7 @@ I am part of a number of clubs, and I have listed these below, with links to the
 <br>[GMDX](https://www.gmdx.org.uk/) - I served for a while as Secretary to GMDX. **GS8VL**
 
 ![OARC](images/oarcboth-3.png)
-<br>[OARC](https://www.oarc.uk/) - I am part of the Online Amateur Radio Community, and spent a while as a Community Representative. I now serve as a 'Volunteer Community Leader' and help lead the GM Packet Network. **M(S)0OUK**
+<br>[OARC](https://www.oarc.uk/) - I am part of the Online Amateur Radio Community, and spent a while as a Community Representative. I now serve on the 'Community Leadership Board' and help lead the Scottish contingent of the Packet Network. **M(S)0OUK**
 
 ![WACRAL](images/8adf3-lapel_pin.png)
 <br>[WACRAL](https://http://www.wacral.org/) - the World Association of Christian Radio Amateurs and Listeners - No. 1730. **M1CRA**
