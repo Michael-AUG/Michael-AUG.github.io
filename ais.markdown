@@ -21,7 +21,7 @@ function redirectToPage() {
 
 Because of my love of sailing and boats, another amateur-related hobby I enjoy is receiving, plotting, and tracking the marine AIS transmissions from nearby vessels as they traverse the Clyde.
 
-To do this, I have a SevenStar 2rxPro receiver, which listens on both AIS frequencies, receives the packet-ised location data, and decodes it into NMEA strings. This data is then passed from the 2rxPro to my RPi over a serial connection. Running on the RPi is MM3NDH's excellent [aisdecode](https://github.com/madpsy/aisdecode) software, which takes this NMEA data and plots it on a map. Nathan NDH is constantly adding new features to this software, and I'm pleased to be a guinea-pig in using it!
+To do this, I have a SevenStar 2rxPro receiver, which listens on both AIS frequencies, receives the packet-ised location data, and decodes it into NMEA strings. This data is then passed from the 2rxPro to my RPi over a serial connection. Running on the RPi is MM3NDH's excellent [aisdecode](https://github.com/madpsy/aisdecode) software, which takes this NMEA data and plots it on a map. Nathan NDH is constantly adding new features to this software, and I'm pleased to be a guinea-pig in using it! At present I am piggy-backing off my  2m amateur colinear, but hope before long to have a dedicated AIS antenna which will, I think, improve my coverage.
 
 You can see what vessels I can hear by visiting [my AIS tracker page](http://ais.topple.scot).
 
