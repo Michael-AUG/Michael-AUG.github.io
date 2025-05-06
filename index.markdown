@@ -54,7 +54,7 @@ var todaystring=montharray[todaym]+" "+todayd+", "+todayy
 var paststring=montharray[m-1]+" "+d+", "+yr
 var difference=(Math.round((Date.parse(todaystring)-Date.parse(paststring))/(24*60*60*1000))*1)
 difference+=" days"
-document.write("It\'s been "+difference+" since the I was first licensed as M6EIO")
+document.write("It\'s been "+difference+" since I was first licensed as M6EIO")
 }
 //enter the count up date using the format year/month/day
 countup(2012,11,07)
@@ -75,7 +75,7 @@ var todaystring=montharray[todaym]+" "+todayd+", "+todayy
 var paststring=montharray[m-1]+" "+d+", "+yr
 var difference=(Math.round((Date.parse(todaystring)-Date.parse(paststring))/(24*60*60*1000))*1)
 difference+=" days"
-document.write("It\'s been "+difference+" since the I was licensed as GM5AUG")
+document.write("It\'s been "+difference+" since I was licensed as GM5AUG")
 }
 //enter the count up date using the format year/month/day
 countup(2023,03,20)
@@ -86,8 +86,6 @@ countup(2023,03,20)
 **Have I been on air in the last 24hrs??**
 
 ![Ham Alert](https://hamalert.org/myspot?c=GM5AUG&h=f28667128cef90b4&a=24)
-
-<a rel="me" href="https://mastodon.radio/@gm5aug">Find me on Mastodon</a>
 
 **GM5AUG/G5AUG's RBN statistics**
 
