@@ -35,46 +35,71 @@ if (hrs < 12)
 </script> 
 </html>
 
-  <h2>GM5AUG Stations (APRS)</h2>
-  <div id="map"></div>
+<link rel="stylesheet" href="https://unpkg.com/leaflet/dist/leaflet.css" />
+<script src="https://unpkg.com/leaflet/dist/leaflet.js"></script>
 
-  <script>
-    // Replace this with your actual APRS.fi API key
-    const API_KEY = "182547.xPVwPuHIc6pv2";
-    const stations = ["GM5AUG-2", "GM5AUG-4", "GM5AUG-5"];
+<script>
+  const API_KEY = "182547.xPVwPuHIc6pv2";  // from aprs.fi
+  const stations = ["GM5AUG-2", "GM5AUG-4", "GM5AUG-5"];
 
-    // Create Leaflet map
-    const map = L.map("map").setView([58, -6], 9);
+  const map = L.map("map").setView([58, -6], 9);
+  L.tileLayer("https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png", {
+    attribution: "&copy; OpenStreetMap contributors"
+  }).addTo(map);
 
-    L.tileLayer("https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png", {
-      attribution: "&copy; OpenStreetMap contributors"
-    }).addTo(map);
+  const markers = {};
 
-    // Function to fetch and plot each station
-    function plotStation(callsign) {
-      const url = `https://api.aprs.fi/api/get?name=${callsign}&what=loc&apikey=${API_KEY}&format=json`;
+  function formatTimestamp(unixTime) {
+    const date = new Date(unixTime * 1000);
+    return date.toLocaleString();
+  }
 
-      fetch(url)
-        .then(response => response.json())
-        .then(data => {
-          if (data.entries && data.entries.length > 0) {
-            const entry = data.entries[0];
-            const lat = parseFloat(entry.lat);
-            const lon = parseFloat(entry.lng);
+  function plotStation(callsign) {
+    const url = `https://api.aprs.fi/api/get?name=${callsign}&what=loc&apikey=${API_KEY}&format=json`;
 
-            L.marker([lat, lon])
-              .addTo(map)
-              .bindPopup(`${callsign}<br>Lat: ${lat.toFixed(5)}, Lon: ${lon.toFixed(5)}`);
+    return fetch(url)
+      .then(r => r.json())
+      .then(data => {
+        if (data.entries && data.entries.length > 0) {
+          const entry = data.entries[0];
+          const lat = parseFloat(entry.lat);
+          const lon = parseFloat(entry.lng);
+          const lastHeard = formatTimestamp(entry.time);
+
+          if (markers[callsign]) {
+            markers[callsign].setLatLng([lat, lon]);
+            markers[callsign].setPopupContent(
+              `${callsign}<br>Lat: ${lat.toFixed(5)}, Lon: ${lon.toFixed(5)}<br>Last heard: ${lastHeard}`
+            );
           } else {
-            console.warn(`No location data for ${callsign}`);
+            markers[callsign] = L.marker([lat, lon])
+              .addTo(map)
+              .bindPopup(
+                `${callsign}<br>Lat: ${lat.toFixed(5)}, Lon: ${lon.toFixed(5)}<br>Last heard: ${lastHeard}`
+              );
           }
-        })
-        .catch(err => console.error("Error fetching data for " + callsign, err));
-    }
+          return [lat, lon];
+        }
+        return null;
+      });
+  }
 
-    // Plot all stations
-    stations.forEach(plotStation);
-  </script>
+  function refreshAll() {
+    Promise.all(stations.map(plotStation)).then(results => {
+      const coords = results.filter(c => c !== null);
+      if (coords.length > 0) {
+        map.fitBounds(coords);
+      }
+    });
+  }
+
+  refreshAll();
+  setInterval(refreshAll, 300000);
+</script>
+
+<div id="map" style="height:600px; width:100%;"></div>
+
+
 
 Please use the links above to navigate around my website. Thank you for visiting.
 
