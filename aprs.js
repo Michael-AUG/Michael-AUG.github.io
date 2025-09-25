@@ -1,6 +1,6 @@
 // === APRS Map Script ===
 // Replace with your actual APRS.fi API key
-const API_KEY = "182547.xPVwPuHIc6pv2";
+const API_KEY = "182547.2YtYAXy1gdRGFjol";
 
 // Callsigns to display
 const stations = ["GM5AUG-2", "GM5AUG-4", "GM5AUG-5"];
