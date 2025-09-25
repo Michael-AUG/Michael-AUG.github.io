@@ -1,4 +1,4 @@
-// === APRS Map Script with Online/Offline markers ===
+// === APRS Map Script with Online/Offline markers and legend ===
 const API_KEY = "182547.2YtYAXy1gdRGFjol";
 const stations = ["GM5AUG-2", "GM5AUG-4", "GM5AUG-5"];
 
@@ -28,41 +28,49 @@ function formatTimestamp(unixTime) {
 
 function plotStation(callsign) {
   const url = `https://api.aprs.fi/api/get?name=${callsign}&what=loc&apikey=${API_KEY}&format=json`;
+
   return fetch(url)
     .then(res => res.json())
     .then(data => {
       console.log("APRS data for", callsign, data);
-      if (data.entries && data.entries.length > 0) {
+
+      let lat, lon, lastHeard, icon, popupText;
+
+      if (data.entries && data.entries.length > 0 && data.entries[0].lat && data.entries[0].lng) {
         const entry = data.entries[0];
-        if (!entry.lat || !entry.lng) return null;
-
-        const lat = parseFloat(entry.lat);
-        const lon = parseFloat(entry.lng);
-        const lastHeard = formatTimestamp(entry.time);
-        const isOnline = (Date.now() - entry.time*1000) < 3600000; // 1 hour
-        const icon = isOnline ? onlineIcon : offlineIcon;
-
-        if (markers[callsign]) {
-          markers[callsign].setLatLng([lat, lon]);
-          markers[callsign].setIcon(icon);
-          markers[callsign].setPopupContent(
-            `${callsign}<br>Lat: ${lat.toFixed(5)}, Lon: ${lon.toFixed(5)}<br>Last heard: ${lastHeard}`
-          );
-        } else {
-          markers[callsign] = L.marker([lat, lon], { icon })
-            .addTo(map)
-            .bindPopup(
-              `${callsign}<br>Lat: ${lat.toFixed(5)}, Lon: ${lon.toFixed(5)}<br>Last heard: ${lastHeard}`
-            );
-        }
-
-        return [lat, lon];
+        lat = parseFloat(entry.lat);
+        lon = parseFloat(entry.lng);
+        lastHeard = formatTimestamp(entry.time);
+        const isOnline = (Date.now() - entry.time * 1000) < 3600000; // 1 hour
+        icon = isOnline ? onlineIcon : offlineIcon;
+        popupText = `${callsign}<br>Lat: ${lat.toFixed(5)}, Lon: ${lon.toFixed(5)}<br>Last heard: ${lastHeard}`;
       } else {
-        console.warn(`No APRS data for ${callsign}`);
-        return null;
+        // Placeholder if no coordinates
+        lat = 58.21 + Math.random()*0.01;
+        lon = -6.36 + Math.random()*0.01;
+        icon = offlineIcon;
+        popupText = `${callsign}<br>No position data`;
       }
+
+      if (markers[callsign]) {
+        markers[callsign].setLatLng([lat, lon]);
+        markers[callsign].setIcon(icon);
+        markers[callsign].setPopupContent(popupText);
+      } else {
+        markers[callsign] = L.marker([lat, lon], { icon }).addTo(map)
+          .bindPopup(popupText);
+      }
+
+      return [lat, lon];
     })
-    .catch(err => console.error("Error fetching " + callsign, err));
+    .catch(err => {
+      console.error("Error fetching " + callsign, err);
+      const lat = 58.21 + Math.random()*0.01;
+      const lon = -6.36 + Math.random()*0.01;
+      markers[callsign] = L.marker([lat, lon], { icon: offlineIcon }).addTo(map)
+        .bindPopup(`${callsign}<br>Error fetching data`);
+      return [lat, lon];
+    });
 }
 
 function refreshAll() {
@@ -72,5 +80,24 @@ function refreshAll() {
   });
 }
 
+// Initial load and auto-refresh
 refreshAll();
 setInterval(refreshAll, 300000);
+
+// === Add a legend ===
+const legend = L.control({ position: "topright" });
+
+legend.onAdd = function(map) {
+  const div = L.DomUtil.create("div", "info legend");
+  div.style.background = "white";
+  div.style.padding = "6px";
+  div.style.border = "1px solid #ccc";
+  div.style.borderRadius = "4px";
+  div.innerHTML = `
+    <i style="background: url('https://cdn.jsdelivr.net/gh/pointhi/leaflet-color-markers/img/marker-icon-green.png') no-repeat center; width: 25px; height: 41px; display:inline-block;"></i> Online<br>
+    <i style="background: url('https://cdn.jsdelivr.net/gh/pointhi/leaflet-color-markers/img/marker-icon-grey.png') no-repeat center; width: 25px; height: 41px; display:inline-block;"></i> Offline
+  `;
+  return div;
+};
+
+legend.addTo(map);
