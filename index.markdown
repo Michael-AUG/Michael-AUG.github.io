@@ -35,6 +35,16 @@ if (hrs < 12)
 </script> 
 </html>
 
+Where is GM5AUG?
+
+<iframe
+  src="https://aprs.fi/#!call=a/GM5AUG-2,GM5AUG-4,GM5AUG-5&mt=roadmap&z=11&tail=0"
+  width="800"
+  height="600"
+  frameborder="0"
+  style="border:0"
+  allowfullscreen>
+</iframe>
 
 Please use the links above to navigate around my website. Thank you for visiting.
 
