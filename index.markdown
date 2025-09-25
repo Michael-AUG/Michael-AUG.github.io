@@ -35,11 +35,6 @@ if (hrs < 12)
 </script> 
 </html>
 
-<link rel="stylesheet" href="https://unpkg.com/leaflet/dist/leaflet.css" />
-<script src="https://unpkg.com/leaflet/dist/leaflet.js"></script>
-<div id="map" style="height:600px;width:100%;"></div>
-<script src="/assets/js/aprsy.js"></script>
-
 Please use the links above to navigate around my website. Thank you for visiting.
 
 <br>
