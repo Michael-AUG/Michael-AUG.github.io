@@ -35,16 +35,46 @@ if (hrs < 12)
 </script> 
 </html>
 
-Where is GM5AUG?
+  <h2>GM5AUG Stations (APRS)</h2>
+  <div id="map"></div>
 
-<iframe
-  src="https://aprs.fi/#!call=a/GM5AUG-2,GM5AUG-4,GM5AUG-5&mt=roadmap&z=11&tail=0"
-  width="800"
-  height="600"
-  frameborder="0"
-  style="border:0"
-  allowfullscreen>
-</iframe>
+  <script>
+    // Replace this with your actual APRS.fi API key
+    const API_KEY = "182547.xPVwPuHIc6pv2";
+    const stations = ["GM5AUG-2", "GM5AUG-4", "GM5AUG-5"];
+
+    // Create Leaflet map
+    const map = L.map("map").setView([58, -6], 9);
+
+    L.tileLayer("https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png", {
+      attribution: "&copy; OpenStreetMap contributors"
+    }).addTo(map);
+
+    // Function to fetch and plot each station
+    function plotStation(callsign) {
+      const url = `https://api.aprs.fi/api/get?name=${callsign}&what=loc&apikey=${API_KEY}&format=json`;
+
+      fetch(url)
+        .then(response => response.json())
+        .then(data => {
+          if (data.entries && data.entries.length > 0) {
+            const entry = data.entries[0];
+            const lat = parseFloat(entry.lat);
+            const lon = parseFloat(entry.lng);
+
+            L.marker([lat, lon])
+              .addTo(map)
+              .bindPopup(`${callsign}<br>Lat: ${lat.toFixed(5)}, Lon: ${lon.toFixed(5)}`);
+          } else {
+            console.warn(`No location data for ${callsign}`);
+          }
+        })
+        .catch(err => console.error("Error fetching data for " + callsign, err));
+    }
+
+    // Plot all stations
+    stations.forEach(plotStation);
+  </script>
 
 Please use the links above to navigate around my website. Thank you for visiting.
 
