@@ -37,69 +37,8 @@ if (hrs < 12)
 
 <link rel="stylesheet" href="https://unpkg.com/leaflet/dist/leaflet.css" />
 <script src="https://unpkg.com/leaflet/dist/leaflet.js"></script>
-
-<script>
-  const API_KEY = "182547.xPVwPuHIc6pv2";  // from aprs.fi
-  const stations = ["GM5AUG-2", "GM5AUG-4", "GM5AUG-5"];
-
-  const map = L.map("map").setView([58, -6], 9);
-  L.tileLayer("https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png", {
-    attribution: "&copy; OpenStreetMap contributors"
-  }).addTo(map);
-
-  const markers = {};
-
-  function formatTimestamp(unixTime) {
-    const date = new Date(unixTime * 1000);
-    return date.toLocaleString();
-  }
-
-  function plotStation(callsign) {
-    const url = `https://api.aprs.fi/api/get?name=${callsign}&what=loc&apikey=${API_KEY}&format=json`;
-
-    return fetch(url)
-      .then(r => r.json())
-      .then(data => {
-        if (data.entries && data.entries.length > 0) {
-          const entry = data.entries[0];
-          const lat = parseFloat(entry.lat);
-          const lon = parseFloat(entry.lng);
-          const lastHeard = formatTimestamp(entry.time);
-
-          if (markers[callsign]) {
-            markers[callsign].setLatLng([lat, lon]);
-            markers[callsign].setPopupContent(
-              `${callsign}<br>Lat: ${lat.toFixed(5)}, Lon: ${lon.toFixed(5)}<br>Last heard: ${lastHeard}`
-            );
-          } else {
-            markers[callsign] = L.marker([lat, lon])
-              .addTo(map)
-              .bindPopup(
-                `${callsign}<br>Lat: ${lat.toFixed(5)}, Lon: ${lon.toFixed(5)}<br>Last heard: ${lastHeard}`
-              );
-          }
-          return [lat, lon];
-        }
-        return null;
-      });
-  }
-
-  function refreshAll() {
-    Promise.all(stations.map(plotStation)).then(results => {
-      const coords = results.filter(c => c !== null);
-      if (coords.length > 0) {
-        map.fitBounds(coords);
-      }
-    });
-  }
-
-  refreshAll();
-  setInterval(refreshAll, 300000);
-</script>
-
-<div id="map" style="height:600px; width:100%;"></div>
-
-
+<div id="map" style="height:600px;width:100%;"></div>
+<script src="/assets/js/aprsy.js"></script>
 
 Please use the links above to navigate around my website. Thank you for visiting.
 
