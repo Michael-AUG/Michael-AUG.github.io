@@ -1,6 +1,6 @@
 // === APRS Map Script with Online/Offline markers and legend ===
 const API_KEY = "182547.2YtYAXy1gdRGFjol";
-const stations = ["GM5AUG-2", "GM5AUG-4", "GM5AUG-5"];
+const stations = ["GM5AUG-2", "GM5AUG-4", "GM5AUG-5", "GM5AUG-6"];
 
 const map = L.map("map").setView([58, -6], 9);
 L.tileLayer("https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png", {
